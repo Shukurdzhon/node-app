@@ -1,0 +1,1810 @@
+{
+	"name": "@mysql/xdevapi",
+	"versions": {
+		"1.0.4": {
+			"name": "@mysql/xdevapi",
+			"version": "1.0.4",
+			"description": "MySQL Connector/Node.JS - A Node.JS driver for MySQL using the X Protocol and X DevAPI.",
+			"author": {
+				"name": "Johannes Schlüter",
+				"email": "johannes.schlueter@oracle.com"
+			},
+			"license": "GPL-2.0",
+			"files": [
+				"README.md",
+				"lib/",
+				"test/",
+				"CHANGES.txt",
+				"COPYING",
+				"index.js"
+			],
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"_id": "@mysql/xdevapi@1.0.4",
+			"_shasum": "0252d4620b6ec19df545c5f0e5ccf7cc34c9c714",
+			"_resolved": "file:mysql-connector-nodejs-1.0.4.tar.gz",
+			"_from": "mysql-connector-nodejs-1.0.4.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "heritiana",
+				"email": "hery.ramilison@oracle.com"
+			},
+			"dist": {
+				"shasum": "0252d4620b6ec19df545c5f0e5ccf7cc34c9c714",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-1.0.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "heritiana",
+					"email": "hery.ramilison@oracle.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/xdevapi-1.0.4.tgz_1476121479525_0.04841696657240391"
+			},
+			"directories": {},
+			"contributors": []
+		},
+		"1.0.5": {
+			"name": "@mysql/xdevapi",
+			"version": "1.0.5",
+			"description": "MySQL Connector/Node.JS - A Node.JS driver for MySQL using the X Protocol and X DevAPI.",
+			"author": {
+				"name": "Johannes Schlüter",
+				"email": "johannes.schlueter@oracle.com"
+			},
+			"license": "GPL-2.0",
+			"files": [
+				"README.md",
+				"lib/",
+				"test/",
+				"CHANGES.txt",
+				"COPYING",
+				"index.js"
+			],
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"_id": "@mysql/xdevapi@1.0.5",
+			"_shasum": "8c37e17d787a009b3ee48c876ee89862f4392f18",
+			"_resolved": "file:mysql-connector-nodejs-1.0.5.tar.gz",
+			"_from": "mysql-connector-nodejs-1.0.5.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "obi_1",
+				"email": "piotr.obrzut@oracle.com"
+			},
+			"dist": {
+				"shasum": "8c37e17d787a009b3ee48c876ee89862f4392f18",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-1.0.5.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "heritiana",
+					"email": "hery.ramilison@oracle.com"
+				},
+				{
+					"name": "johannes4321",
+					"email": "johannes+npm@schlueters.de"
+				},
+				{
+					"name": "ltangvald",
+					"email": "lars.tangvald@oracle.com"
+				},
+				{
+					"name": "obi_1",
+					"email": "piotr.obrzut@oracle.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/xdevapi-1.0.5.tgz_1479124119534_0.5791178080253303"
+			},
+			"directories": {},
+			"contributors": []
+		},
+		"1.0.6": {
+			"name": "@mysql/xdevapi",
+			"version": "1.0.6",
+			"description": "MySQL Connector/Node.JS - A Node.JS driver for MySQL using the X Protocol and X DevAPI.",
+			"author": {
+				"name": "Johannes Schlüter",
+				"email": "johannes.schlueter@oracle.com"
+			},
+			"contributors": [
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"files": [
+				"README.md",
+				"lib/",
+				"test/",
+				"CHANGES.txt",
+				"COPYING",
+				"index.js"
+			],
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"_id": "@mysql/xdevapi@1.0.6",
+			"_shasum": "43128b48568fcb8f741457f21e027a9b3f78a34c",
+			"_resolved": "file:mysql-connector-nodejs-1.0.6.tar.gz",
+			"_from": "mysql-connector-nodejs-1.0.6.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "ltangvald",
+				"email": "lars.tangvald@oracle.com"
+			},
+			"dist": {
+				"shasum": "43128b48568fcb8f741457f21e027a9b3f78a34c",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-1.0.6.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "heritiana",
+					"email": "hery.ramilison@oracle.com"
+				},
+				{
+					"name": "johannes4321",
+					"email": "johannes+npm@schlueters.de"
+				},
+				{
+					"name": "ltangvald",
+					"email": "lars.tangvald@oracle.com"
+				},
+				{
+					"name": "obi_1",
+					"email": "piotr.obrzut@oracle.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/xdevapi-1.0.6.tgz_1488880201921_0.5275717540644109"
+			},
+			"directories": {}
+		},
+		"8.0.7": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.7",
+			"description": "MySQL Connector/Node.JS - A Node.JS driver for MySQL using the X Protocol and X DevAPI.",
+			"author": {
+				"name": "Johannes Schlüter",
+				"email": "johannes.schlueter@oracle.com"
+			},
+			"contributors": [
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"files": [
+				"README.md",
+				"lib/",
+				"test/",
+				"CHANGES.txt",
+				"COPYING",
+				"index.js"
+			],
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"_id": "@mysql/xdevapi@8.0.7",
+			"_shasum": "61693e02796b8247c3ff12b9c79ed47f82177c88",
+			"_resolved": "file:mysql-connector-nodejs-8.0.7-dmr.tar.gz",
+			"_from": "mysql-connector-nodejs-8.0.7-dmr.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "obi_1",
+				"email": "piotr.obrzut@oracle.com"
+			},
+			"dist": {
+				"shasum": "61693e02796b8247c3ff12b9c79ed47f82177c88",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.7.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi-8.0.7.tgz_1499685488398_0.9409915700089186"
+			},
+			"directories": {}
+		},
+		"8.0.8": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.8",
+			"description": "MySQL Connector/Node.JS - A Node.JS driver for MySQL using the X Protocol and X DevAPI.",
+			"author": {
+				"name": "Johannes Schlüter",
+				"email": "johannes.schlueter@oracle.com"
+			},
+			"contributors": [
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"files": [
+				"README.md",
+				"lib/",
+				"test/",
+				"CHANGES.txt",
+				"COPYING",
+				"index.js"
+			],
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {},
+			"dependencies": {},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"_id": "@mysql/xdevapi@8.0.8",
+			"_shasum": "b0d8cfaf79bebba83739c925a7975a0fc6f0e2ea",
+			"_resolved": "file:mysql-connector-nodejsmysql-xdevapi-8.0.8.tar.gz",
+			"_from": "mysql-connector-nodejsmysql-xdevapi-8.0.8.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "obi_1",
+				"email": "piotr.obrzut@oracle.com"
+			},
+			"dist": {
+				"shasum": "b0d8cfaf79bebba83739c925a7975a0fc6f0e2ea",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.8.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi-8.0.8.tgz_1506592329052_0.48733242601156235"
+			},
+			"directories": {}
+		},
+		"8.0.9": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.9",
+			"description": "MySQL Connector/Node.JS - A Node.JS driver for MySQL using the X Protocol and X DevAPI.",
+			"author": {
+				"name": "Johannes Schlüter",
+				"email": "johannes.schlueter@oracle.com"
+			},
+			"contributors": [
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				},
+				{
+					"name": "Amitabh Das",
+					"email": "amitabh.das@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"files": [
+				"README.md",
+				"lib/",
+				"test/",
+				"CHANGES.txt",
+				"COPYING",
+				"index.js"
+			],
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {},
+			"dependencies": {
+				"google-protobuf": "3.4.0",
+				"parsimmon": "1.6.2"
+			},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"_id": "@mysql/xdevapi@8.0.9",
+			"_shasum": "64dbf5ec2339bb6fc9d061c252f5ff10a28cc74e",
+			"_resolved": "file:mysql-connector-nodejsmysql-xdevapi-8.0.9-rc.tar.gz",
+			"_from": "mysql-connector-nodejsmysql-xdevapi-8.0.9-rc.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "obi_1",
+				"email": "piotr.obrzut@oracle.com"
+			},
+			"dist": {
+				"shasum": "64dbf5ec2339bb6fc9d061c252f5ff10a28cc74e",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.9.tgz"
+			},
+			"maintainers": [
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi-8.0.9.tgz_1517338181892_0.2793927872553468"
+			},
+			"directories": {}
+		},
+		"8.0.11": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.11",
+			"description": "MySQL Connector/Node.JS - A Node.JS driver for MySQL using the X Protocol and X DevAPI.",
+			"author": {
+				"name": "Johannes Schlüter",
+				"email": "johannes.schlueter@oracle.com"
+			},
+			"contributors": [
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				},
+				{
+					"name": "Amitabh Das",
+					"email": "amitabh.das@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"files": [
+				"README.md",
+				"lib/",
+				"test/",
+				"CHANGES.txt",
+				"COPYING",
+				"index.js"
+			],
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {},
+			"dependencies": {
+				"google-protobuf": "3.4.0",
+				"parsimmon": "1.6.2"
+			},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"_id": "@mysql/xdevapi@8.0.11",
+			"_shasum": "ae9cf376c113121d1959aacee59a55c0626f89b8",
+			"_resolved": "file:mysql-connector-nodejs-8.0.11.tar.gz",
+			"_from": "mysql-connector-nodejs-8.0.11.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "obi_1",
+				"email": "piotr.obrzut@oracle.com"
+			},
+			"dist": {
+				"shasum": "ae9cf376c113121d1959aacee59a55c0626f89b8",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.11.tgz",
+				"fileCount": 219,
+				"unpackedSize": 1810711,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJa2Gz8CRA9TVsSAnZWagAAG3UP/jwkLCUe+KBjw18hMClC\nY0ukXjZMuybDZwjTiwMlzSPTS7lsj9V8fkNz1CgRTFMW6gfx6SKikG8nb0Qw\nXcd/KV9asWNL/Mcza+oaXAOAEmul9M8zO8a38hyVcFVOYDeKwsz8s4zOSdN6\nCyTo/veOmUxjI+VHwnAzB3Eku1cEfQaava0U7eawQqFUHtFm6ObOIZOOZREM\nxdJU44slvTw7SRclB1BsbnJKOyW//pVK/uLndRKZJzxLwMKI/AtxVb4SjnW/\nw7kHae/xEAD8ZsoaOWv5rU/l3PFbSk2qZvH8rU0bHcaN3ndhs8yUm6HiKQkA\nivXH8nId7Ysm844gNmHY8x1eo8zPa4FJccCroik2jNRi3crl0yE0eJ9VRtt0\n/yxrtl7Ix0ZnaLgua/5N9+j3tTKoeB33o5m4gdLg4dO6lHv1V2Hl1+ofMNqh\nOROr++pITS8j5BZ0Yv++Eolp5lUzgMCkwdKu1VO+JlMg8OaaPla5Xa+jdo1P\nlSC4aK43BXUW5ZAZq8kek3/Mjtc3llQ07cb8cT+JSZO4B+dpW87vhOmQnl1b\nZdX6ue/kQfQYJQECncqt4stnULad+DLtxLJm4zT7TRAb+2gYhlSpV6ReTEct\n19bR8ditcaDLQgn2KyUV1gfBpVbORxNlqC3YMiHLUdp5QTTPaHNpT5yUDZNm\n6m6w\r\n=3oVq\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi_8.0.11_1524133115644_0.38381331316461"
+			},
+			"_hasShrinkwrap": false
+		},
+		"8.0.12": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.12",
+			"description": "MySQL Connector/Node.JS - A Node.JS driver for MySQL using the X Protocol and X DevAPI.",
+			"author": {
+				"name": "Johannes Schlüter",
+				"email": "johannes.schlueter@oracle.com"
+			},
+			"contributors": [
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				},
+				{
+					"name": "Amitabh Das",
+					"email": "amitabh.das@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"files": [
+				"README.md",
+				"lib/",
+				"test/",
+				"CHANGES.txt",
+				"COPYING",
+				"index.js"
+			],
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mysql/mysql-connector-nodejs.git"
+			},
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {},
+			"dependencies": {
+				"google-protobuf": "3.4.0",
+				"parsimmon": "1.6.2"
+			},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"_id": "@mysql/xdevapi@8.0.12",
+			"_shasum": "e38014dc0fb98d26fba2cb694d3e0730fa3a6bcf",
+			"_resolved": "file:mysql-connector-nodejs-8.0.12.tar.gz",
+			"_from": "mysql-connector-nodejs-8.0.12.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "heritiana",
+				"email": "hery.ramilison@oracle.com"
+			},
+			"dist": {
+				"shasum": "e38014dc0fb98d26fba2cb694d3e0730fa3a6bcf",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.12.tgz",
+				"fileCount": 233,
+				"unpackedSize": 1921535
+			},
+			"maintainers": [
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi_8.0.12_1532695101465_0.6516836960305608"
+			},
+			"_hasShrinkwrap": false
+		},
+		"8.0.13": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.13",
+			"description": "MySQL Connector/Node.JS - A Node.JS driver for MySQL using the X Protocol and X DevAPI.",
+			"author": {
+				"name": "Johannes Schlüter",
+				"email": "johannes.schlueter@oracle.com"
+			},
+			"contributors": [
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				},
+				{
+					"name": "Amitabh Das",
+					"email": "amitabh.das@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mysql/mysql-connector-nodejs.git"
+			},
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {
+				"prepack": "node bin/prepack.js"
+			},
+			"dependencies": {
+				"google-protobuf": "3.4.0",
+				"parsimmon": "1.6.2"
+			},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"_id": "@mysql/xdevapi@8.0.13",
+			"_shasum": "f2d3c267f0ae67263e830a4561c148e76189eb7f",
+			"_resolved": "file:mysql-connector-nodejs-8.0.13.tar.gz",
+			"_from": "mysql-connector-nodejs-8.0.13.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "heritiana",
+				"email": "hery.ramilison@oracle.com"
+			},
+			"dist": {
+				"shasum": "f2d3c267f0ae67263e830a4561c148e76189eb7f",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.13.tgz",
+				"integrity": "sha512-ArqNFdw7RcciB3gC7u3FNz6OFn3GtrIbibTRFBRhcDwaz6PXfeOXyxczvUrFtJUx6SJ25a+cxD83wuAvqHDIyA==",
+				"fileCount": 254,
+				"unpackedSize": 2090516,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbzfHYCRA9TVsSAnZWagAAjgMP/211833h0RebqUNEtjjL\nJ0pXR+RL8Fnt3J1eLQ9t2HiKn458RaLR9BgzK8wUr5ICJZC5wnYFDO0LRr78\n8YjTCZmBHKrUwSMppdV1hHKtYf/fUdcJ8IPMLqlqvwa7haFwD8jdv90jeEx+\nSGZGMkPxYl2zkH/G3sxRMFjLz0zXywypHqjuFDMipxLi/8MFfgYANpl/ibYH\nc3JuUw8XcywCSF4D/NBq4S1cLLl7iPgKuXoAmsg7zUKVItl875/+lIj3zhlr\nBw1APK6p35ANWhLXf3DgX9Y7Yiy1vyFaltKFE3nP1UU+zTZS0nD/FnAescjG\ndbs0WPZJUEtZ18HaiSvuK383LTt+BVTNz1eCkKUz+Hqp1cXDml73jsZSFnbk\nLZ+aX12yyQrTrqzVCcStspuZpD+Lr+ajPS4doWoPUaJp5oNKoAalHFyRkeep\nS8yCatnbPIfVsDQ/pLebleouFiyChcpQa2AhmfvJaAqMoSg4uvqzaSrY3j8d\nAqUn2m+clBOGm7DSLwAgSmCRw6mHYegdAMO5C24Sq/PN6RnkSShcxU3/QSTM\nyBDL8Qsl4+ezmuTcutaejrvYF0nPHHWZO5OIfR8tJTEndNgNW45gqSJVf3Ad\nrbDjOZw/fBy+w2EPYVmR7QHyvS7TbY+2b4eTpEBqUEHRCw88+tXXx0Zd0pTm\n6//z\r\n=pM6Z\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi_8.0.13_1540223447717_0.8447829547533421"
+			},
+			"_hasShrinkwrap": false
+		},
+		"8.0.14": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.14",
+			"description": "MySQL Connector/Node.JS - A Node.JS driver for MySQL using the X Protocol and X DevAPI.",
+			"author": {
+				"name": "Johannes Schlüter",
+				"email": "johannes.schlueter@oracle.com"
+			},
+			"contributors": [
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				},
+				{
+					"name": "Amitabh Das",
+					"email": "amitabh.das@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mysql/mysql-connector-nodejs.git"
+			},
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {
+				"prepack": "node bin/prepack.js"
+			},
+			"dependencies": {
+				"google-protobuf": "3.4.0",
+				"parsimmon": "1.6.2"
+			},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"_id": "@mysql/xdevapi@8.0.14",
+			"_shasum": "b984097fc5b98c62bef61d511efdb377e3c1a6a6",
+			"_resolved": "file:mysql-connector-nodejs-8.0.14.tar.gz",
+			"_from": "mysql-connector-nodejs-8.0.14.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "heritiana",
+				"email": "hery.ramilison@oracle.com"
+			},
+			"dist": {
+				"shasum": "b984097fc5b98c62bef61d511efdb377e3c1a6a6",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.14.tgz",
+				"integrity": "sha512-M8eWxhyVeDrFSS16zMyRDkFAPty7xSv10fdrPWt/SdXeJ5wnISB2LOlPGXx+03v+IoQ1dNtUlZ3yslikeZicXA==",
+				"fileCount": 257,
+				"unpackedSize": 2114056,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcRb6dCRA9TVsSAnZWagAAfvoP/1ODf2tJJEUs6r7r0J0U\nJZYvHQO2Yoq2ueKYH3yJ7XK10NwfziYNY/yZocHzAGB/bxlU4HWXObm4sZu6\nkeiGHlukvECOo+3Sa11SKo8SHo8KZszWR2X0EcC8x+7NKf7FiJJycarRNA7J\nJzlGRWUMu7IMpdb8/cz/zlT9BMGQnPnuETQPwvGycXlRJdz81gRjaP31SnqR\n9Z6gH3a1jYWSTy+xPppWj48zRgt+8i3Iz+S/jxiOVINzXNo3nV87lP4s17Bf\nl88t4bLQknuKcU0YeTNsbAABiDLgloG/Pwu7Jx7gKb8GMzQi6GIC9AQNXZz2\n4065p/AY6+kgDAm8XlRCtFBri/ehrHZP1fDQyunjLCq17qPSOfnq9vu18GsS\n9RY+OAVomkwGLdow9c06nV1lYuJMDCu2No+lFWxEDYTdiumCyaX+sVMNqFTB\ntz6n+O+8n1tvC+Ml8ClKyrWUvF8Lv1I9e10H8hUon9V32FVUvpJ/YWeCkfWa\n1lGDahkrbZGx7v4Z6ZcKmvNE+o9/eveCt/Jd3rtwjhQQ+jM4X8wT/7r4h7Oa\nyccixn3IA/1mDDGJHZheWB9Y75LjyRaSwOm7tGoWX6ZlVTTdcSE1ngCfx2rk\nno9JsrXq8pczRvfKxJpB32SfjNZ/SyGRilnIC44MysHlIMaezmXIbhYl2cCD\nMdJr\r\n=ptIP\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi_8.0.14_1548074653222_0.16543761122608314"
+			},
+			"_hasShrinkwrap": false
+		},
+		"8.0.15": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.15",
+			"description": "MySQL Connector/Node.JS - A Node.JS driver for MySQL using the X Protocol and X DevAPI.",
+			"author": {
+				"name": "Johannes Schlüter",
+				"email": "johannes.schlueter@oracle.com"
+			},
+			"contributors": [
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				},
+				{
+					"name": "Amitabh Das",
+					"email": "amitabh.das@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mysql/mysql-connector-nodejs.git"
+			},
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {
+				"prepack": "node bin/prepack.js"
+			},
+			"dependencies": {
+				"google-protobuf": "3.4.0",
+				"parsimmon": "1.6.2"
+			},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"_id": "@mysql/xdevapi@8.0.15",
+			"_shasum": "ba2af3bc86eb24ed3ecaeeb7cded5a2f3fd2bfe2",
+			"_resolved": "file:mysql-connector-nodejs-8.0.15.tar.gz",
+			"_from": "mysql-connector-nodejs-8.0.15.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "heritiana",
+				"email": "hery.ramilison@oracle.com"
+			},
+			"dist": {
+				"shasum": "ba2af3bc86eb24ed3ecaeeb7cded5a2f3fd2bfe2",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.15.tgz",
+				"integrity": "sha512-nF5ixwyFEw/ipqXN7kQ/uZZgrcxNAwQGnBzhWoOlhS60gfT6r4SAxEUKGx/EX69D7YuG2VqiqogcqUe+R19Ceg==",
+				"fileCount": 258,
+				"unpackedSize": 2116630,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcVIWGCRA9TVsSAnZWagAAsTIQAICTx42DbdOBXFDEEbju\nwggYExZdiFnOQx0y3u+VJlWCkF1jYw3Gm0jsI3v6XtfJcl9/HxD3sdWuMs7U\n4Otm/P7QAM71KK+LYzA3aOjeW3rfkbBG9r506RaAoyoFRiy44HGEtf2tnnZj\nQQ+VM301Ej6+J1zDJn5xaFwZaGOP3Dq1lAc90r1TLeHF4dZOOmMY1vmFds5r\n3f9YgDe9XdeaybmaRH1oeUNo68Z8gL7HrrmEtF+4ETz/R5NO7mhBNJsr9kIV\nh65X0EulLMJTWlFd4V9B5HfoOKTln5LQyVdyZwFX4rkf5HG57cQUB1vEVJMG\npGr1Soluw4cdSJ5rUcl0gBvEKnQdOqIoXRhVtsh+S5xM+fOixViIj2W84j7p\nXFMVzZRzq5njZi7J5O9Po8nfhv7mPIJuAOFjR9tWWQS5PA7ulbf7pHNuwzzE\nWiQK1XKWVn+xRqH8F0efeYiLDQE7hiixV6pwSjYqGvgHNRvVNx/0BZwneQ2T\nNpT12VamuW7tRPMhUJB68tufo8HvoLppIyS4goIWlPgrqlESUXzHZ+djY+7F\nUQ/FIlQDaz55WIIw92uFzJQOUz3szt5bhZTcsKsKfXr3fZWU0pQGDYc6hrKk\nwKrtHCMgBbV6sXz/ueEZnhFPKp2B8tyr9KXf+wHg7ryMtlDaRVQBkEZAg2ch\nHBUa\r\n=+KkL\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi_8.0.15_1549043077312_0.4586997272247426"
+			},
+			"_hasShrinkwrap": false
+		},
+		"8.0.16": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.16",
+			"description": "MySQL Connector/Node.JS - A Node.JS driver for MySQL using the X Protocol and X DevAPI.",
+			"author": {
+				"name": "Johannes Schlüter",
+				"email": "johannes.schlueter@oracle.com"
+			},
+			"contributors": [
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				},
+				{
+					"name": "Amitabh Das",
+					"email": "amitabh.das@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mysql/mysql-connector-nodejs.git"
+			},
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {
+				"prepack": "node bin/prepack.js"
+			},
+			"dependencies": {
+				"google-protobuf": "3.4.0",
+				"parsimmon": "1.6.2"
+			},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"_id": "@mysql/xdevapi@8.0.16",
+			"_shasum": "e628af2ac611c8f253b55711ddac528f5eeead07",
+			"_resolved": "file:mysql-connector-nodejs-8.0.16.tar.gz",
+			"_from": "mysql-connector-nodejs-8.0.16.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "gipulla",
+				"email": "gipson.pulla@oracle.com"
+			},
+			"dist": {
+				"shasum": "e628af2ac611c8f253b55711ddac528f5eeead07",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.16.tgz",
+				"integrity": "sha512-7i99UdnEFO0W33UvBi0g5XrUaYhNYPaFZSHYF7of9a0p4i7AusrNz3UdN9HgCVUrRt7KsDXo1uEs1SwMrjoPag==",
+				"fileCount": 286,
+				"unpackedSize": 2406526,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcwWgVCRA9TVsSAnZWagAAHzgP/A6vmbH3xguumdAK8yVs\niXvT45JHO7GDN/fnB/VmYrb5CpICGHfxTv+qAEv3x6YLWEMcS+qD2EgF1zsi\naVMjsGkynkJBYpgUkNWzlTFm/vxMywFgQkqAEPLmyLVTtVXMl4qYFqJskFIj\nvAmcEYfLvPr03vXcD0q0HxsPxOQRJMmeE9LHuhHE0enX6m0OqrWEV4cfQkF7\njYrIEaHAI5R222aRnaBTz5QA1U9JwJaGdrJoJgs9ITrfYipUeQ1UR3uKEP4n\n+PGg4Je7VC1uERkFGgweJoS6Moth6ieNLSIcpBBo8uG95tvR8/BYc52nZ+jL\nMnPeIK0P1/Nh/IDeKt7sr7PaLGScs5ro7Z6jqt/HmWBBBtRTQktmNrCXVw/J\nuSWgVhz8YBW1Mco/TYhPPHRNjS4h9nr2dT0BdaRsTW5NuqtgG58yNIZWPHtd\nVM0YcvC0Bcjq4xs/FN3PNKiwbpSB0QTXJzbpJxOAQ8UQjE2TyJ5e135FOVes\n4D0jYyCeR+P2ISUr7bN50g+liRIGexmsUhAw5x20vp257Dz6sxDdt+6vbw52\ncVLK9menLrZth1stKiB3pBd+lD7I+Y33NnVVfyXrZPAUr/4/0NIAZGmpfSDn\nAyQKgWViELS7I9ic+Gn8ZPoyTiAq9UIDtWfhR75rW4UtVkZsrYwSGVtrsk2I\nDiTI\r\n=QK3y\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "gipson.pulla@oracle.com",
+					"name": "gipulla"
+				},
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi_8.0.16_1556178964137_0.7653649819586179"
+			},
+			"_hasShrinkwrap": false
+		},
+		"8.0.17": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.17",
+			"description": "MySQL Connector/Node.js - A Node.js driver for MySQL using the X Protocol and X DevAPI.",
+			"contributors": [
+				{
+					"name": "Johannes Schlüter",
+					"email": "johannes.schlueter@oracle.com"
+				},
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				},
+				{
+					"name": "Amitabh Das",
+					"email": "amitabh.das@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"main": "index.js",
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mysql/mysql-connector-nodejs.git"
+			},
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {
+				"posttest": "docker-compose down --volumes",
+				"prepack": "node bin/prepack.js",
+				"pretest": "docker-compose up -d && sleep 30",
+				"test": "mocha",
+				"test:compatibility": "npm run pretest && mocha --exclude=test/functional/**/*.js --exclude=test/unit/**/*.js && npm run posttest",
+				"test:functional": "mocha --exclude=test/compatibility/**/*.js --exclude=test/unit/**/*.js",
+				"test:latest": "mocha --exclude=test/compatibility/**/*.js",
+				"test:unit": "mocha --exclude=test/compatibility/**/*.js --exclude=test/functional/**/*.js"
+			},
+			"dependencies": {
+				"google-protobuf": "3.4.0",
+				"parsimmon": "1.6.2"
+			},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"devDependencies": {
+				"chai": "4.2.0",
+				"mocha": "5.2.0",
+				"testdouble": "3.7.0"
+			},
+			"_id": "@mysql/xdevapi@8.0.17",
+			"_shasum": "859303005a1a90f66cae66207ca9ba591f516a6c",
+			"_resolved": "file:mysql-connector-nodejs-8.0.17.tar.gz",
+			"_from": "mysql-connector-nodejs-8.0.17.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "ltangvald",
+				"email": "lars.tangvald@oracle.com"
+			},
+			"dist": {
+				"shasum": "859303005a1a90f66cae66207ca9ba591f516a6c",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.17.tgz",
+				"integrity": "sha512-Lnt6SNp+YoMajrhPCAc7EUGbAiiPPiQheO8ItZ3ig/Z6jXPf+u++IBngadyyt0HDu4n8KWFM8pRXFd+vs9oO2w==",
+				"fileCount": 294,
+				"unpackedSize": 2464574,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdNVKhCRA9TVsSAnZWagAA5+gP/3eG/x7Srtuxi2lFh5hJ\nsK+dfbW1zDOA3qZlNtLwWVUj++PNBj4Lv70/9hkxDKo9TDhTI37O59dbqxb9\nNnOq7voZEQuUttyt5sZho7wwLzZRHwTdUNgS3I7x0poOmVq9jXK7OzgDM4p1\nKeLngrhp1K407wvaPqAW8PVcI0/goFKgqqQROWPpQQ/JBoKRlztoTAI+RU08\nK7/BW4g1XVF+5S9sj31dGMN4n28nO1DcJTIaU2YiYtXzA85GuDy5CU7xXjCq\neJCjuwE6pp2O8Y8+lD+lUvnfr8TyiVa2uuyFQqL7+itbjVAsPnffr5rmHtSc\nvBzL/Te0ATgz7OyDu0EsN5Brajdq4qV21KxWxURrSb13QnE4gqM4u/w3xe4/\nqWxiZg3Y9tNnbuarEQ3AFLpdk0BXJ40f7+cmGzPB2giZEv4LauyDfWiiyxMp\nEGiacK34rT5cDwpK7dZuwc3VfblNfXCaTO9AK/TiLDY9cSTMyLNrQOelM8eF\nTNY/LzjWWXnoe2e0iOhqKFwiWH0AJGNMjPTxDkwG+0R4rdGyeSOuJ4wUpQjD\nsnalFB1Mljom5Ji0YDS6ogmq4t7mRlIzdtOn1Y117bTB/nBG34CvnsQdl8hI\n+O9vCa2JvyrL7jzsW0nG8eucthGqpWjxAPl4ZqKvVLvAGQzXrRLitYbQ0emT\nijHR\r\n=53m2\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "gipson.pulla@oracle.com",
+					"name": "gipulla"
+				},
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi_8.0.17_1563775649107_0.7703472076839297"
+			},
+			"_hasShrinkwrap": false
+		},
+		"8.0.18": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.18",
+			"description": "MySQL Connector/Node.js - A Node.js driver for MySQL using the X Protocol and X DevAPI.",
+			"contributors": [
+				{
+					"name": "Johannes Schlüter",
+					"email": "johannes.schlueter@oracle.com"
+				},
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				},
+				{
+					"name": "Amitabh Das",
+					"email": "amitabh.das@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"main": "index.js",
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mysql/mysql-connector-nodejs.git"
+			},
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {
+				"coverage": "nyc npm run test",
+				"coverage:compatibility": "nyc npm run test:compatibility",
+				"coverage:functional": "nyc npm run test:functional",
+				"coverage:latest": "nyc npm run test:latest",
+				"coverage:summary": "nyc report --reporter=text-summary",
+				"coverage:unit": "nyc npm run test:unit",
+				"linter:checks": "standardx --verbose | snazzy",
+				"linter:fixes": "standardx --fix",
+				"posttest": "docker-compose down --volumes",
+				"prepack": "node bin/prepack.js",
+				"pretest": "docker-compose up -d && sleep 30",
+				"test": "mocha",
+				"test:compatibility": "npm run pretest && mocha --exclude=test/functional/**/*.js --exclude=test/unit/**/*.js && npm run posttest",
+				"test:functional": "mocha --exclude=test/compatibility/**/*.js --exclude=test/unit/**/*.js",
+				"test:latest": "mocha --exclude=test/compatibility/**/*.js",
+				"test:unit": "mocha --exclude=test/compatibility/**/*.js --exclude=test/functional/**/*.js"
+			},
+			"dependencies": {
+				"google-protobuf": "3.4.0",
+				"parsimmon": "1.6.2"
+			},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"devDependencies": {
+				"chai": "4.2.0",
+				"mocha": "5.2.0",
+				"nyc": "11.9.0",
+				"snazzy": "7.1.1",
+				"standardx": "2.1.0",
+				"testdouble": "3.7.0"
+			},
+			"nyc": {
+				"branches": 75,
+				"check-coverage": true,
+				"exclude": [
+					"lib/ExprParser/lib/stubs",
+					"lib/Protocol/Protobuf/Stubs",
+					"test"
+				],
+				"functions": 75,
+				"lines": 75,
+				"reporter": [
+					"text",
+					"html"
+				],
+				"statements": 75
+			},
+			"standardx": {
+				"ignore": [
+					"**/mysqlx*_pb.js"
+				]
+			},
+			"eslintConfig": {
+				"rules": {
+					"semi": [
+						"error",
+						"always"
+					],
+					"indent": [
+						"error",
+						4
+					]
+				}
+			},
+			"_id": "@mysql/xdevapi@8.0.18",
+			"_shasum": "ffa50a568482b2ba89dd0f94c9b072bb34da6b42",
+			"_resolved": "file:mysql-connector-nodejs-8.0.18.tar.gz",
+			"_from": "mysql-connector-nodejs-8.0.18.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "gipulla",
+				"email": "gipson.pulla@oracle.com"
+			},
+			"dist": {
+				"shasum": "ffa50a568482b2ba89dd0f94c9b072bb34da6b42",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.18.tgz",
+				"integrity": "sha512-V0Vw02KWdfdwWnjhvzyxoTqrZefJv4h31yhMjcpG61uhNDVINC4SafTR3s1PcO79QlrQlzGmJ/jZZ2zLPFYjHA==",
+				"fileCount": 302,
+				"unpackedSize": 2538716,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdpD6cCRA9TVsSAnZWagAA4o8QAJ7jMAgg/Thf4WZ42cZD\nobPAZZ+C6WB5Ije6Z7zhdMJrVI1mZss9u8jan9P6JVFe6zaHnuO0lIN2McQr\nZdN3kQg9jo08w2/Wi5BZhu626i2j2i00vEq0PTH+bV5/0oOse6J+io9Hy8RX\nh9ZTR3YZaW1YDtehf2TSgki0RqtxsW0Y1dDzpCnEP613qhNCDMbRHcBne6Rz\nTGLX6pikgZRnZs0fsyRJ13/7XHy8swVwnug7TEJoJOc23iixJTRZehAj9+sO\nMaF4v0rQnh3qoIY66fEM7S7U34XsjuYCsZ+OhvTaxkXNZ/jNCxgCO/DKQl+L\nShfq7sjCcYK0DA0iLOgOtvcxXfWo61Y+RUGJk/p4j1oxFLVjNhyoD9vFYmaj\nWUnm8h+V2ZLyK5+aXUbFCTB8QcV8jf7ATCbifd85Tryvz+PH48enOULhMNp6\ngwBIGkWsyqj8LKRXUiLsYUbBulSSftluZbzRYYaRW5SbyQwxZYGT+LN99UWp\nLC4XkypuDBckFXk2u6M5xdXl/H4KUhGmT6ph0cLuIDTJ+MGu4nynVPBFn8Na\nb9iOgdCOKiHohVvbg9RKAy5rWJsZc3hOWowqdX8LOeVZDO61L4dW9TQVZCnd\nSSdnJw+aXtUALdnOr8vDSkF6hCGBPYFA115gtejZ2yM4C7xKVBHaAKYhGP/h\ntFHy\r\n=yHMT\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "gipson.pulla@oracle.com",
+					"name": "gipulla"
+				},
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi_8.0.18_1571045019254_0.01842345052076788"
+			},
+			"_hasShrinkwrap": false
+		},
+		"8.0.19": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.19",
+			"description": "MySQL Connector/Node.js - A Node.js driver for MySQL using the X Protocol and X DevAPI.",
+			"contributors": [
+				{
+					"name": "Johannes Schlüter",
+					"email": "johannes.schlueter@oracle.com"
+				},
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				},
+				{
+					"name": "Amitabh Das",
+					"email": "amitabh.das@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"main": "index.js",
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mysql/mysql-connector-nodejs.git"
+			},
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {
+				"coverage": "nyc npm run test",
+				"coverage:compatibility": "nyc npm run test:compatibility",
+				"coverage:functional": "nyc npm run test:functional",
+				"coverage:latest": "nyc npm run test:latest",
+				"coverage:summary": "nyc report --reporter=text-summary",
+				"coverage:unit": "nyc npm run test:unit",
+				"linter:checks": "standardx --verbose | snazzy",
+				"linter:fixes": "standardx --fix",
+				"posttest": "docker-compose down --volumes",
+				"prepack": "node bin/prepack.js",
+				"pretest": "docker-compose up -d && sleep 30",
+				"test": "mocha",
+				"test:compatibility": "npm run pretest && mocha --exclude=test/functional/**/*.js --exclude=test/unit/**/*.js && npm run posttest",
+				"test:functional": "mocha --exclude=test/compatibility/**/*.js --exclude=test/unit/**/*.js",
+				"test:latest": "mocha --exclude=test/compatibility/**/*.js",
+				"test:unit": "mocha --exclude=test/compatibility/**/*.js --exclude=test/functional/**/*.js"
+			},
+			"dependencies": {
+				"google-protobuf": "3.4.0",
+				"parsimmon": "1.6.2"
+			},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"devDependencies": {
+				"chai": "4.2.0",
+				"mocha": "5.2.0",
+				"nyc": "11.9.0",
+				"snazzy": "7.1.1",
+				"standardx": "2.1.0",
+				"testdouble": "3.7.0"
+			},
+			"nyc": {
+				"branches": 75,
+				"check-coverage": true,
+				"exclude": [
+					"lib/ExprParser/lib/stubs",
+					"lib/Protocol/Protobuf/Stubs",
+					"test"
+				],
+				"functions": 75,
+				"lines": 75,
+				"reporter": [
+					"text",
+					"html"
+				],
+				"statements": 75
+			},
+			"standardx": {
+				"ignore": [
+					"**/mysqlx*_pb.js"
+				]
+			},
+			"eslintConfig": {
+				"rules": {
+					"semi": [
+						"error",
+						"always"
+					],
+					"indent": [
+						"error",
+						4
+					]
+				}
+			},
+			"_id": "@mysql/xdevapi@8.0.19",
+			"_shasum": "6f30d44070c7ee7513764e4ed70f458366b91a7f",
+			"_resolved": "file:mysql-connector-nodejs-8.0.19.tar.gz",
+			"_from": "mysql-connector-nodejs-8.0.19.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "gipulla",
+				"email": "gipson.pulla@oracle.com"
+			},
+			"dist": {
+				"shasum": "6f30d44070c7ee7513764e4ed70f458366b91a7f",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.19.tgz",
+				"integrity": "sha512-rnC4spN12QgTLauOVGFAF+BLuE7HxgULkqq6IIrsVtT0/JLN7QuBiCw5pvVGvKARgqeSP5TPw7mUsHA3InQ6XA==",
+				"fileCount": 307,
+				"unpackedSize": 2566804,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeHBo1CRA9TVsSAnZWagAAxcMP/jlwI6Fysy7GvlrGI+nP\nHQKqtIacV9jWdhQYaf+dvyPu75Ik9hLn7E5XeXg0vit4C5QNUC9CCJD1rKvF\nH+EiQUFNsbKko6xh0g6egoyxUSJbG9r6dcoR4fXhfytwzGWTzJtXp51wHHT7\navk+T7qhr/alt+ZCRYFYSgYkknxkKURhheaEX2Uzou4poV7AMLCJEzy485iB\nKJMg60d7Yr9HuDx/S9IkSV5tJfKN64s4kMmLtGoQaZm8YcriDu9LRu+k4s+h\nuCz6XR2OKhWGcwHJmjZAYFwb7FLeCFkj+XVIqSJV5t6VaurrHAhmuCDN5cUL\nlOTjBwpOQFtHHGQiA5eefhAwubBgsR2g+v8A4yuKV8w8Q9dVs65jOhosDAhE\nIxJ1fyKCk150NSWuNKuh414DNN2XGLp2baQOKsW5BN3y+HO5NFmXTQ+C202p\n/ifQQBor165znKH2ItoXkpICUceLv3Ak91ldObGAfko/HKy/o7gC8gaHluzw\npNAg0Orppww4NVWrnq7TqVEtWzN3UPT5SZGBieviCYkcoLOdzOG7HGmGSNF6\nEWMphFLwHeDfYrl9uQw0UEgDZMT71gB+ASWLaGnBxYM43PH98pn2E2CDVMfD\nNj/rZDYSigONNfwpBxwZe8pR+s3sip0psrPHsGhY7maLs6fRoWdWmgmICbYf\niZVK\r\n=w7Di\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "gipson.pulla@oracle.com",
+					"name": "gipulla"
+				},
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi_8.0.19_1578900020936_0.060163527554590424"
+			},
+			"_hasShrinkwrap": false
+		},
+		"8.0.20": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.20",
+			"description": "MySQL Connector/Node.js - A Node.js driver for MySQL using the X Protocol and X DevAPI.",
+			"contributors": [
+				{
+					"name": "Johannes Schlüter",
+					"email": "johannes.schlueter@oracle.com"
+				},
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				},
+				{
+					"name": "Amitabh Das",
+					"email": "amitabh.das@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"main": "index.js",
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mysql/mysql-connector-nodejs.git"
+			},
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {
+				"coverage": "nyc npm run test",
+				"coverage:compatibility": "nyc npm run test:compatibility",
+				"coverage:functional": "nyc npm run test:functional",
+				"coverage:latest": "nyc npm run test:latest",
+				"coverage:summary": "nyc report --reporter=text-summary",
+				"coverage:unit": "nyc npm run test:unit",
+				"linter:checks": "standardx --verbose | snazzy",
+				"linter:fixes": "standardx --fix",
+				"posttest": "docker-compose --file test/setup.yml --project-name=nodejsmysqlxtest down --volumes",
+				"prepack": "node bin/prepack.js",
+				"pretest": "docker-compose --file test/setup.yml --project-name=nodejsmysqlxtest up -d && sleep 30",
+				"test": "mocha",
+				"test:compatibility": "npm run pretest && mocha --exclude=test/functional/**/*.js --exclude=test/unit/**/*.js && npm run posttest",
+				"test:hookless": "mocha",
+				"test:functional": "mocha --exclude=test/compatibility/**/*.js --exclude=test/unit/**/*.js",
+				"test:latest": "mocha --exclude=test/compatibility/**/*.js",
+				"test:unit": "mocha --exclude=test/compatibility/**/*.js --exclude=test/functional/**/*.js"
+			},
+			"dependencies": {
+				"google-protobuf": "3.4.0",
+				"parsimmon": "1.6.2"
+			},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"devDependencies": {
+				"chai": "4.2.0",
+				"mocha": "5.2.0",
+				"nyc": "11.9.0",
+				"snazzy": "7.1.1",
+				"standardx": "2.1.0",
+				"testdouble": "3.7.0",
+				"timekeeper": "2.2.0"
+			},
+			"nyc": {
+				"branches": 75,
+				"check-coverage": true,
+				"exclude": [
+					"lib/ExprParser/lib/stubs",
+					"lib/Protocol/Protobuf/Stubs",
+					"test"
+				],
+				"functions": 75,
+				"lines": 75,
+				"reporter": [
+					"text",
+					"html"
+				],
+				"statements": 75
+			},
+			"standardx": {
+				"ignore": [
+					"**/mysqlx*_pb.js"
+				]
+			},
+			"eslintConfig": {
+				"rules": {
+					"semi": [
+						"error",
+						"always"
+					],
+					"indent": [
+						"error",
+						4
+					]
+				}
+			},
+			"_id": "@mysql/xdevapi@8.0.20",
+			"_shasum": "f538f2d176b188e7ff5fd0f3af268d32854304b1",
+			"_resolved": "file:mysql-connector-nodejs-8.0.20.tar.gz",
+			"_from": "mysql-connector-nodejs-8.0.20.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "gipulla",
+				"email": "gipson.pulla@oracle.com"
+			},
+			"dist": {
+				"shasum": "f538f2d176b188e7ff5fd0f3af268d32854304b1",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.20.tgz",
+				"integrity": "sha512-7XIMfrl4S76NV2vkIbiIvdHR75po+LgqokscIdH1Te1bhLFjEIcHnpCiDUXWSK7z1HiJndNnZovg+s5qEs5eNQ==",
+				"fileCount": 320,
+				"unpackedSize": 2706788,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeplN7CRA9TVsSAnZWagAAJNEQAKSPhOGZkD3am0BOmcZZ\nAs/P3El5isBRE2J1T+zPp6pkxlCdgpq5PlcgSTD0fAdvJtNKQbkSYoOprA6i\nGJPG0KNcQ/+ztUyfHRo9jHIY3w1PfqqtJ1cH8l7dEp3leaCXBXNLSGxDcoJ1\nIpWRfpg9wzMwqmqmX+/6fFqPUMN6NUD8xJURCCui6RFi5jzOFlGgtPRMBeoF\npUeyVLggNHytu2cuXPy0oqnf4L5+k+LSWDGJvDbKKoo5i/MMf6LVZ1b5EOJi\nmhlZ5K3KYs255FwBfRm+3ryUkU+MsOhh9n2sSoTJIgMyLgtFp/YM0YCdFkUc\n8q9EBXhBClu1U4Tby7aSLg2PFTlVgq1LrWN2JvHQBQcsrbd6VejxX+f0001X\nYtAVLDIbguNgT8vt4kcY5UcM6RtOLt1w/CD8SAt89LMw6ds+yCBOkjCb519D\nWxYgBMOeBZwtVWzbI5fmkNGQ79pwRh/w7saRricaXA0Teo7N7WIDY9X1Vuks\n1AcmqM6Q1AE54AnqbrL9xcgvFhIaABrUGS+Vfc3Y3U0qCuKjVnEUe2uw8XjN\n8qfGdUKkQ7l2OntnExxibzpmNSUd5Am4NzmF4fo81YMGkmAhYMiCz0HjVvkD\nzUkpwLEHVbay0OJAxlngtUuXK/oYifYlQLR3ZUGD8P0ojbEYB9EF3d1XgoBx\nyV9l\r\n=+KXC\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "gipson.pulla@oracle.com",
+					"name": "gipulla"
+				},
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi_8.0.20_1587958651142_0.4999185456807842"
+			},
+			"_hasShrinkwrap": false
+		},
+		"8.0.21": {
+			"name": "@mysql/xdevapi",
+			"version": "8.0.21",
+			"description": "MySQL Connector/Node.js - A Node.js driver for MySQL using the X Protocol and X DevAPI.",
+			"contributors": [
+				{
+					"name": "Johannes Schlüter",
+					"email": "johannes.schlueter@oracle.com"
+				},
+				{
+					"name": "Rui Quelhas",
+					"email": "rui.quelhas@oracle.com"
+				},
+				{
+					"name": "Amitabh Das",
+					"email": "amitabh.das@oracle.com"
+				}
+			],
+			"license": "GPL-2.0",
+			"main": "index.js",
+			"keywords": [
+				"MySQL",
+				"MySQL X DevAPI",
+				"mysqlx",
+				"Databases",
+				"Database"
+			],
+			"homepage": "http://www.mysql.com",
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/mysql/mysql-connector-nodejs.git"
+			},
+			"bugs": {
+				"url": "http://bugs.mysql.com"
+			},
+			"scripts": {
+				"coverage": "nyc npm run test",
+				"coverage:compatibility": "nyc npm run test:compatibility",
+				"coverage:functional": "nyc npm run test:functional",
+				"coverage:latest": "nyc npm run test:latest",
+				"coverage:summary": "nyc report --reporter=text-summary",
+				"coverage:unit": "nyc npm run test:unit",
+				"linter:checks": "standardx --verbose | snazzy",
+				"linter:fixes": "standardx --fix",
+				"mocha": "mocha --reporter spec --timeout 5000 --recursive",
+				"posttest": "docker-compose --file test/setup.yml --project-name=nodejsmysqlxtest down --volumes",
+				"prepack": "node bin/prepack.js",
+				"pretest": "docker-compose --file test/setup.yml --project-name=nodejsmysqlxtest up -d && sleep 30",
+				"test": "npm run mocha",
+				"test:compatibility": "npm run pretest && npm run mocha -- --exclude=test/functional/**/*.js --exclude=test/unit/**/*.js && npm run posttest",
+				"test:hookless": "npm run mocha",
+				"test:functional": "npm run mocha -- --exclude=test/compatibility/**/*.js --exclude=test/unit/**/*.js",
+				"test:latest": "npm run mocha -- --exclude=test/compatibility/**/*.js",
+				"test:unit": "npm run mocha -- --exclude=test/compatibility/**/*.js --exclude=test/functional/**/*.js"
+			},
+			"dependencies": {
+				"google-protobuf": "3.11.4",
+				"parsimmon": "1.6.2"
+			},
+			"engines": {
+				"node": ">=4.2.0"
+			},
+			"devDependencies": {
+				"chai": "4.2.0",
+				"mocha": "5.2.0",
+				"nyc": "11.9.0",
+				"snazzy": "7.1.1",
+				"standardx": "2.1.0",
+				"testdouble": "3.7.0",
+				"timekeeper": "2.2.0"
+			},
+			"nyc": {
+				"branches": 75,
+				"check-coverage": true,
+				"exclude": [
+					"lib/ExprParser/lib/stubs",
+					"lib/Protocol/Protobuf/Stubs",
+					"test"
+				],
+				"functions": 75,
+				"lines": 75,
+				"reporter": [
+					"text",
+					"html"
+				],
+				"statements": 75
+			},
+			"standardx": {
+				"ignore": [
+					"**/mysqlx*_pb.js"
+				]
+			},
+			"eslintConfig": {
+				"rules": {
+					"semi": [
+						"error",
+						"always"
+					],
+					"indent": [
+						"error",
+						4
+					]
+				}
+			},
+			"_id": "@mysql/xdevapi@8.0.21",
+			"_shasum": "95056178b655fc14cd96b9c2558dfd85a2ce18dd",
+			"_resolved": "file:mysql-connector-nodejs-8.0.21.tar.gz",
+			"_from": "mysql-connector-nodejs-8.0.21.tar.gz",
+			"_npmVersion": "2.15.9",
+			"_nodeVersion": "4.6.0",
+			"_npmUser": {
+				"name": "gipulla",
+				"email": "gipson.pulla@oracle.com"
+			},
+			"dist": {
+				"shasum": "95056178b655fc14cd96b9c2558dfd85a2ce18dd",
+				"tarball": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.21.tgz",
+				"integrity": "sha512-fUfPNsMK9MBBiisBadUfUYqrBlniPrSNJnstnveJpfhHksPt6rVfVk6gEPjEd32lwe5MmihcB5LBInSnNdCxbQ==",
+				"fileCount": 316,
+				"unpackedSize": 2448951,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfDE8nCRA9TVsSAnZWagAAmFwP/1oAqmfVMWZM4SXnpWev\n3IPvnxkp5cgPzDEm+r59ObUzL5KBiVs51BqbWrveewih5Ab857UXd/9qvsUh\nOIXGoN22yGxa3Qn9mivot9JRWLLKKKm9rQycT5MGWE2jWCsc6UwV9tuTcmTn\nsTlETeQOIxrnOO2tMaEyWGPsivanZ48S4zN7i8xUH7CXXRsL6Fsee+A54zFA\n2QPPHD4NQhvXs/dSSM/tZ+TuaS1bV54ODQK7LqS/RbBgYsE44yhmcDlDiK71\nFWgveWnXte3bEnuVbjlnMGwQLEyDRC/mEQ5LztDTA5Bz8Yi+VfLZCY0P9ndh\n0lbL4rpDHuD9aHqr0pZ1fI+NxiZMzZyTOb0p/c8cIN+118TbZchbpuJidfE/\n8nvJIquBscmyYypKy3d/KAPizsEHgCY8W1jhy/u11nJIXkFH9OVwfqq3OJLJ\nOyQxZfm+luL/m/OiG0f9yVXI9jEtGkI6xuZw1CGKMqeVrbseQhVaeId54wFY\nQkdCh8X7q7XaTqaOORY0hslsVwgusyLqr49VTsBNm2p+KiPJ2iQ/t3AqgQ1C\nCWxhDI2ZWx2oULV+WcGBhPRmdSYiyIYxR/1ZDTpI7qERcGFpK63VTLfi0WlK\naca3JDF5GRLndokGKWHTJXrzSKhGXCdKOhmO6RY7uFYM6VlciXmvJBcJAOgT\nP6sZ\r\n=0PbK\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "gipson.pulla@oracle.com",
+					"name": "gipulla"
+				},
+				{
+					"email": "hery.ramilison@oracle.com",
+					"name": "heritiana"
+				},
+				{
+					"email": "johannes+npm@schlueters.de",
+					"name": "johannes4321"
+				},
+				{
+					"email": "lars.tangvald@oracle.com",
+					"name": "ltangvald"
+				},
+				{
+					"email": "piotr.obrzut@oracle.com",
+					"name": "obi_1"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/xdevapi_8.0.21_1594642215184_0.4474264217452073"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"time": {
+		"modified": "2020-07-13T12:10:18.376Z",
+		"created": "2016-10-10T17:44:40.541Z",
+		"1.0.4": "2016-10-10T17:44:40.541Z",
+		"1.0.5": "2016-11-14T11:48:40.114Z",
+		"1.0.6": "2017-03-07T09:50:02.519Z",
+		"8.0.7": "2017-07-10T11:18:09.590Z",
+		"8.0.8": "2017-09-28T09:52:10.360Z",
+		"8.0.9": "2018-01-30T18:49:43.119Z",
+		"8.0.11": "2018-04-19T10:18:35.777Z",
+		"8.0.12": "2018-07-27T12:38:21.654Z",
+		"8.0.13": "2018-10-22T15:50:47.883Z",
+		"8.0.14": "2019-01-21T12:44:13.360Z",
+		"8.0.15": "2019-02-01T17:44:37.497Z",
+		"8.0.16": "2019-04-25T07:56:04.552Z",
+		"8.0.17": "2019-07-22T06:07:29.216Z",
+		"8.0.18": "2019-10-14T09:23:39.479Z",
+		"8.0.19": "2020-01-13T07:20:21.049Z",
+		"8.0.20": "2020-04-27T03:37:31.354Z",
+		"8.0.21": "2020-07-13T12:10:15.476Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "8.0.21"
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "W/\"68b6779a83aad1d1a7bf2e5e6d43ca10\"",
+			"fetched": 1599292197870
+		}
+	},
+	"_distfiles": {
+		"xdevapi-1.0.4.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-1.0.4.tgz",
+			"sha": "0252d4620b6ec19df545c5f0e5ccf7cc34c9c714",
+			"registry": "npmjs"
+		},
+		"xdevapi-1.0.5.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-1.0.5.tgz",
+			"sha": "8c37e17d787a009b3ee48c876ee89862f4392f18",
+			"registry": "npmjs"
+		},
+		"xdevapi-1.0.6.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-1.0.6.tgz",
+			"sha": "43128b48568fcb8f741457f21e027a9b3f78a34c",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.7.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.7.tgz",
+			"sha": "61693e02796b8247c3ff12b9c79ed47f82177c88",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.8.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.8.tgz",
+			"sha": "b0d8cfaf79bebba83739c925a7975a0fc6f0e2ea",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.9.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.9.tgz",
+			"sha": "64dbf5ec2339bb6fc9d061c252f5ff10a28cc74e",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.11.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.11.tgz",
+			"sha": "ae9cf376c113121d1959aacee59a55c0626f89b8",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.12.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.12.tgz",
+			"sha": "e38014dc0fb98d26fba2cb694d3e0730fa3a6bcf",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.13.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.13.tgz",
+			"sha": "f2d3c267f0ae67263e830a4561c148e76189eb7f",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.14.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.14.tgz",
+			"sha": "b984097fc5b98c62bef61d511efdb377e3c1a6a6",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.15.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.15.tgz",
+			"sha": "ba2af3bc86eb24ed3ecaeeb7cded5a2f3fd2bfe2",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.16.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.16.tgz",
+			"sha": "e628af2ac611c8f253b55711ddac528f5eeead07",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.17.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.17.tgz",
+			"sha": "859303005a1a90f66cae66207ca9ba591f516a6c",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.18.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.18.tgz",
+			"sha": "ffa50a568482b2ba89dd0f94c9b072bb34da6b42",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.19.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.19.tgz",
+			"sha": "6f30d44070c7ee7513764e4ed70f458366b91a7f",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.20.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.20.tgz",
+			"sha": "f538f2d176b188e7ff5fd0f3af268d32854304b1",
+			"registry": "npmjs"
+		},
+		"xdevapi-8.0.21.tgz": {
+			"url": "https://registry.npmjs.org/@mysql/xdevapi/-/xdevapi-8.0.21.tgz",
+			"sha": "95056178b655fc14cd96b9c2558dfd85a2ce18dd",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"xdevapi-8.0.21.tgz": {
+			"shasum": "95056178b655fc14cd96b9c2558dfd85a2ce18dd"
+		}
+	},
+	"_rev": "2-d35d737a23ed0db9",
+	"_id": "@mysql/xdevapi",
+	"readme": "# MySQL Connector/Node.js\n\n[![Languages](https://img.shields.io/github/languages/top/mysql/mysql-connector-nodejs.svg?style=flat)](https://github.com/mysql/mysql-connector-nodejs) [![License: GPLv2 with FOSS exception](https://img.shields.io/badge/license-GPLv2_with_FOSS_exception-c30014.svg?style=flat)](https://github.com/mysql/mysql-connector-nodejs/blob/master/LICENSE) [![npm](https://img.shields.io/npm/v/@mysql/xdevapi.svg?style=flat)](https://www.npmjs.com/package/@mysql/xdevapi)\n\nMySQL Connector/Node.js is a MySQL 8 driver for Node.js officially supported and maintained by Oracle. It contains an implementation of the [X DevAPI](https://dev.mysql.com/doc/x-devapi-userguide/en/), an Application Programming Interface for working with the [MySQL Document Store](https://dev.mysql.com/doc/refman/8.0/en/document-store.html) through CRUD-based, NoSQL operations.\n\nFor detailed information, please visit the official [MySQL Connector/Node.js documentation](https://dev.mysql.com/doc/dev/connector-nodejs/).\n\n## Licensing\n\nPlease refer to the [README.txt](https://github.com/mysql/mysql-connector-nodejs/blob/master/README.txt) and [LICENSE](https://github.com/mysql/mysql-connector-nodejs/blob/master/LICENSE) files, available in this repository, for further details.\n\n## Getting the Latest Release\n\nMySQL Connector/Node.js is free for usage under the terms of the specified licensing and it runs on any Operating System that supports a Node.js 4.2.0 (or higher) runtime. Packages can and should be installed in your project using the npm CLI.\n\nSince releases do **NOT** follow [Semantic Versioning](https://semver.org/) rules, it is advised to install a specific version of the package (the latest preferably) or by using an additional standard lockfile such as [`npm-shrinkwrap.json`](https://docs.npmjs.com/files/shrinkwrap.json.html) or [`package-lock.json`](https://docs.npmjs.com/files/package-lock.json) depending on the version of the npm CLI you are using.\n\n### Installing from the npm registry\n\nThe recommended way for installing MySQL Connector/Node.js is by using the npm registry directly. That can be done by running following command in the project root directory:\n\n```sh\n$ npm install @mysql/xdevapi --save --save-exact\n```\n\n### Downloading and Installing manually\n\nAlternatively, MySQL Connector/Node.js tarballs are also available in the [official download page](https://dev.mysql.com/downloads/connector/nodejs/). To install the package you can run the following command in the project root directory:\n\n```sh\n$ npm install /path/to/mysql-connector-nodejs-<version>.tar.gz --save --save-exact\n```\n\n### GitHub Repository\n\nThe GitHub repository contains the MySQL Connector/Node.js source code as per the latest release. No changes are published in the repository between releases.\n\n## Contributing\n\nThere are a few ways to contribute to the Connector/Node.js code. Please refer to the [contributing guidelines](https://github.com/mysql/mysql-connector-nodejs/blob/master/CONTRIBUTING.md) for additional information.\n\n## Additional Resources\n\n* [MySQL Connector/Node.js Documentation](https://dev.mysql.com/doc/dev/connector-nodejs/)\n* [MySQL X DevAPI User Guide](https://dev.mysql.com/doc/x-devapi-userguide/en/)\n* [MySQL Document Store](https://dev.mysql.com/doc/refman/en/document-store.html)\n* [MySQL Connector/Node.js forum](http://forums.mysql.com/list.php?44)\n* [`#connectors` channel in MySQL Community Slack](https://mysqlcommunity.slack.com/messages/connectors) ([Sign-up](https://lefred.be/mysql-community-on-slack/) required if you do not have an Oracle account)\n* [Twitter](https://twitter.com/mysql)\n* [InsideMySQL.com Connectors Blog](https://insidemysql.com/category/mysql-development/connectors/)\n* [MySQL Public Bug Tracker](https://bugs.mysql.com/)\n\nFor more information about this and other MySQL products, please visit [MySQL Contact & Questions](https://www.mysql.com/about/contact/).\n\n[![Follow MySQL on Twitter](https://img.shields.io/twitter/follow/MySQL.svg?label=Follow%20%40MySQL&style=social)](https://twitter.com/intent/follow?screen_name=MySQL)"
+}

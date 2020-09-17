@@ -1,0 +1,4101 @@
+{
+	"name": "parsimmon",
+	"versions": {
+		"0.0.1": {
+			"name": "parsimmon",
+			"version": "0.0.1",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jay Adkisson",
+				"email": "jjmadkisson at gmail dot com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jayferd/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "*",
+				"uglify-js": "*"
+			},
+			"dependencies": {
+				"pjs": "*"
+			},
+			"scripts": {
+				"install": "make commonjs",
+				"test": "make test"
+			},
+			"_id": "parsimmon@0.0.1",
+			"dist": {
+				"shasum": "7f60c432d2785e1516aaaeaf1550320fce41075d",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.0.1.tgz"
+			},
+			"_npmVersion": "1.1.49",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.0.5": {
+			"name": "parsimmon",
+			"version": "0.0.5",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jay Adkisson",
+				"email": "jjmadkisson at gmail dot com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jayferd/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "*",
+				"uglify-js": "2.x"
+			},
+			"dependencies": {
+				"pjs": "3.x"
+			},
+			"scripts": {
+				"install": "make commonjs",
+				"test": "make test"
+			},
+			"_id": "parsimmon@0.0.5",
+			"dist": {
+				"shasum": "d51b14e600e6c22298460c8cee19365ebf53d4e3",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.0.5.tgz"
+			},
+			"_resolved": "tmp/parsimmon-0.0.5.tgz",
+			"_from": "tmp/parsimmon-0.0.5.tgz",
+			"_npmVersion": "1.2.14",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.0.6": {
+			"name": "parsimmon",
+			"version": "0.0.6",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jay Adkisson",
+				"email": "jjmadkisson at gmail dot com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jayferd/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "*",
+				"uglify-js": "2.x"
+			},
+			"dependencies": {
+				"pjs": "3.x"
+			},
+			"scripts": {
+				"install": "make commonjs",
+				"test": "make test"
+			},
+			"bugs": {
+				"url": "https://github.com/jayferd/parsimmon/issues"
+			},
+			"_id": "parsimmon@0.0.6",
+			"dist": {
+				"shasum": "551f3af12a041f54e15b7aa001ba87a0eec9bff1",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.0.6.tgz"
+			},
+			"_resolved": "tmp/parsimmon-0.0.6.tgz",
+			"_from": "tmp/parsimmon-0.0.6.tgz",
+			"_npmVersion": "1.2.25",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.1.0": {
+			"name": "parsimmon",
+			"version": "0.1.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jay Adkisson",
+				"email": "jjmadkisson at gmail dot com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jayferd/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "1.8.x",
+				"chai": "1.5.x",
+				"uglify-js": "2.x"
+			},
+			"dependencies": {
+				"pjs": "3.x"
+			},
+			"scripts": {
+				"install": "make commonjs",
+				"test": "make test"
+			},
+			"bugs": {
+				"url": "https://github.com/jayferd/parsimmon/issues"
+			},
+			"_id": "parsimmon@0.1.0",
+			"dist": {
+				"shasum": "b4a3d00ef34e588092a3f1695efb84620a6008a0",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.1.0.tgz"
+			},
+			"_resolved": "tmp/parsimmon-0.1.0.tgz",
+			"_from": "tmp/parsimmon-0.1.0.tgz",
+			"_npmVersion": "1.2.25",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.2.0": {
+			"name": "parsimmon",
+			"version": "0.2.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jay Adkisson",
+				"email": "jjmadkisson at gmail dot com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jayferd/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "1.8.x",
+				"chai": "1.5.x",
+				"uglify-js": "2.x"
+			},
+			"dependencies": {
+				"pjs": "3.x"
+			},
+			"scripts": {
+				"install": "make commonjs",
+				"test": "make test"
+			},
+			"bugs": {
+				"url": "https://github.com/jayferd/parsimmon/issues"
+			},
+			"_id": "parsimmon@0.2.0",
+			"dist": {
+				"shasum": "48e9a138522acc42a6c46ee4b1ba2243c78e4412",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.2.0.tgz"
+			},
+			"_resolved": "tmp/parsimmon-0.2.0.tgz",
+			"_from": "tmp/parsimmon-0.2.0.tgz",
+			"_npmVersion": "1.2.25",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.2.1": {
+			"name": "parsimmon",
+			"version": "0.2.1",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jay Adkisson",
+				"email": "jjmadkisson at gmail dot com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jayferd/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json",
+				"build/parsimmon.commonjs.js"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "1.8.x",
+				"chai": "1.5.x",
+				"uglify-js": "2.x"
+			},
+			"dependencies": {
+				"pjs": "5.x"
+			},
+			"scripts": {
+				"prepublish": "make commonjs",
+				"test": "make test"
+			},
+			"bugs": {
+				"url": "https://github.com/jayferd/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jayferd/parsimmon",
+			"_id": "parsimmon@0.2.1",
+			"dist": {
+				"shasum": "da694fd56c38129b057e040132c258131b533be5",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.2.1.tgz"
+			},
+			"_resolved": "tmp/parsimmon-0.2.1.tgz",
+			"_from": "tmp/parsimmon-0.2.1.tgz",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.3.0": {
+			"name": "parsimmon",
+			"version": "0.3.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jay Adkisson",
+				"email": "jjmadkisson at gmail dot com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jayferd/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json",
+				"build/parsimmon.commonjs.js"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "1.8.x",
+				"chai": "1.5.x",
+				"uglify-js": "2.x"
+			},
+			"dependencies": {
+				"pjs": "5.x"
+			},
+			"scripts": {
+				"prepublish": "make commonjs",
+				"test": "make test"
+			},
+			"bugs": {
+				"url": "https://github.com/jayferd/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jayferd/parsimmon",
+			"_id": "parsimmon@0.3.0",
+			"dist": {
+				"shasum": "6b59fcaca3604ff8edd816b9a48fcb0d3c851aa9",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.3.0.tgz"
+			},
+			"_resolved": "tmp/parsimmon-0.3.0.tgz",
+			"_from": "tmp/parsimmon-0.3.0.tgz",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.3.1": {
+			"name": "parsimmon",
+			"version": "0.3.1",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jay Adkisson",
+				"email": "jjmadkisson at gmail dot com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jayferd/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json",
+				"build/parsimmon.commonjs.js",
+				"build/parsimmon.browser.js",
+				"build/parsimmon.browser.min.js"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "1.8.x",
+				"chai": "1.5.x",
+				"uglify-js": "2.x"
+			},
+			"dependencies": {
+				"pjs": "5.x"
+			},
+			"scripts": {
+				"test": "make test"
+			},
+			"bugs": {
+				"url": "https://github.com/jayferd/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jayferd/parsimmon",
+			"_id": "parsimmon@0.3.1",
+			"dist": {
+				"shasum": "5f661c6cfb44705d044ac9a1fabc97a88917f768",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.3.1.tgz"
+			},
+			"_resolved": "tmp/parsimmon-0.3.1.tgz",
+			"_from": "tmp/parsimmon-0.3.1.tgz",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.3.2": {
+			"name": "parsimmon",
+			"version": "0.3.2",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jay Adkisson",
+				"email": "jjmadkisson at gmail dot com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jayferd/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json",
+				"build/parsimmon.commonjs.js",
+				"build/parsimmon.browser.js",
+				"build/parsimmon.browser.min.js"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "1.8.x",
+				"chai": "1.5.x",
+				"uglify-js": "2.x"
+			},
+			"dependencies": {
+				"pjs": "5.x"
+			},
+			"scripts": {
+				"test": "make test"
+			},
+			"bugs": {
+				"url": "https://github.com/jayferd/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jayferd/parsimmon",
+			"_id": "parsimmon@0.3.2",
+			"dist": {
+				"shasum": "cf013b350ad719768775b19abf8bf4aa3af6d68b",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.3.2.tgz"
+			},
+			"_resolved": "tmp/parsimmon-0.3.2.tgz",
+			"_from": "tmp/parsimmon-0.3.2.tgz",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.4.0": {
+			"name": "parsimmon",
+			"version": "0.4.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jay Adkisson",
+				"email": "jjmadkisson at gmail dot com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jayferd/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json",
+				"build/parsimmon.commonjs.js",
+				"build/parsimmon.browser.js",
+				"build/parsimmon.browser.min.js"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "1.8.x",
+				"chai": "1.5.x",
+				"uglify-js": "2.x"
+			},
+			"dependencies": {
+				"pjs": "5.x"
+			},
+			"scripts": {
+				"test": "make test"
+			},
+			"bugs": {
+				"url": "https://github.com/jayferd/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jayferd/parsimmon",
+			"_id": "parsimmon@0.4.0",
+			"dist": {
+				"shasum": "072b13a0245fa2b9f02c5a9ae56a470bbcf02552",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.4.0.tgz"
+			},
+			"_resolved": "tmp/parsimmon-0.4.0.tgz",
+			"_from": "tmp/parsimmon-0.4.0.tgz",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.5.0": {
+			"name": "parsimmon",
+			"version": "0.5.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jay Adkisson",
+				"email": "jjmadkisson at gmail dot com"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jayferd/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json",
+				"build/parsimmon.commonjs.js",
+				"build/parsimmon.browser.js",
+				"build/parsimmon.browser.min.js"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "1.8.x",
+				"chai": "1.5.x",
+				"uglify-js": "2.x"
+			},
+			"dependencies": {
+				"pjs": "5.x"
+			},
+			"scripts": {
+				"test": "make test"
+			},
+			"bugs": {
+				"url": "https://github.com/jayferd/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jayferd/parsimmon",
+			"_id": "parsimmon@0.5.0",
+			"dist": {
+				"shasum": "07c96245e8d4b74de6de2d6af63f7500ff70e348",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.5.0.tgz"
+			},
+			"_resolved": "tmp/parsimmon-0.5.0.tgz",
+			"_from": "tmp/parsimmon-0.5.0.tgz",
+			"_npmVersion": "1.4.3",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				}
+			],
+			"directories": {},
+			"contributors": []
+		},
+		"0.5.1": {
+			"name": "parsimmon",
+			"version": "0.5.1",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json",
+				"build/parsimmon.commonjs.js",
+				"build/parsimmon.browser.js",
+				"build/parsimmon.browser.min.js"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "1.8.x",
+				"chai": "1.5.x",
+				"uglify-js": "2.x"
+			},
+			"dependencies": {
+				"pjs": "5.x"
+			},
+			"scripts": {
+				"test": "make test"
+			},
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon",
+			"_id": "parsimmon@0.5.1",
+			"_shasum": "247c970d7d5e99a51115b16a106de96f0eb9303b",
+			"_resolved": "tmp/parsimmon-0.5.1.tgz",
+			"_from": "tmp/parsimmon-0.5.1.tgz",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				}
+			],
+			"dist": {
+				"shasum": "247c970d7d5e99a51115b16a106de96f0eb9303b",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.5.1.tgz"
+			},
+			"directories": {},
+			"contributors": []
+		},
+		"0.6.0": {
+			"name": "parsimmon",
+			"version": "0.6.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json",
+				"build/parsimmon.commonjs.js",
+				"build/parsimmon.browser.js",
+				"build/parsimmon.browser.min.js"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "1.8.x",
+				"chai": "1.5.x",
+				"uglify-js": "2.x"
+			},
+			"dependencies": {
+				"pjs": "5.x"
+			},
+			"scripts": {
+				"test": "make test"
+			},
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon",
+			"_id": "parsimmon@0.6.0",
+			"_shasum": "6d1615e8cd3913a2a5438720afb7f073aec3e776",
+			"_resolved": "tmp/parsimmon-0.6.0.tgz",
+			"_from": "tmp/parsimmon-0.6.0.tgz",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				}
+			],
+			"dist": {
+				"shasum": "6d1615e8cd3913a2a5438720afb7f073aec3e776",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.6.0.tgz"
+			},
+			"directories": {},
+			"contributors": []
+		},
+		"0.7.0": {
+			"name": "parsimmon",
+			"version": "0.7.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json",
+				"build/parsimmon.commonjs.js",
+				"build/parsimmon.browser.js",
+				"build/parsimmon.browser.min.js"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "1.8.x",
+				"chai": "1.5.x",
+				"uglify-js": "2.x"
+			},
+			"dependencies": {
+				"pjs": "5.x"
+			},
+			"scripts": {
+				"test": "make test"
+			},
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon",
+			"_id": "parsimmon@0.7.0",
+			"_shasum": "652fc7cbade73c5edb42a266ec556c906d82c9fb",
+			"_resolved": "tmp/parsimmon-0.7.0.tgz",
+			"_from": "tmp/parsimmon-0.7.0.tgz",
+			"_npmVersion": "1.4.14",
+			"_npmUser": {
+				"name": "jayferd",
+				"email": "jjmadkisson@gmail.com"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				}
+			],
+			"dist": {
+				"shasum": "652fc7cbade73c5edb42a266ec556c906d82c9fb",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.7.0.tgz"
+			},
+			"directories": {},
+			"contributors": []
+		},
+		"0.7.1": {
+			"name": "parsimmon",
+			"version": "0.7.1",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"index.js",
+				"src",
+				"test",
+				"Makefile",
+				"package.json",
+				"build/parsimmon.commonjs.js",
+				"build/parsimmon.browser.js",
+				"build/parsimmon.browser.min.js"
+			],
+			"main": "index.js",
+			"devDependencies": {
+				"mocha": "1.8.x",
+				"chai": "1.5.x",
+				"uglify-js": "2.x"
+			},
+			"license": "MIT",
+			"dependencies": {},
+			"scripts": {
+				"test": "make test"
+			},
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@0.7.1",
+			"_shasum": "d160ea17600b709b55e6e0a2ba179ee689ec1d84",
+			"_resolved": "file:tmp/parsimmon-0.7.1.tgz",
+			"_from": "tmp/parsimmon-0.7.1.tgz",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"shasum": "d160ea17600b709b55e6e0a2ba179ee689ec1d84",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.7.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/parsimmon-0.7.1.tgz_1465069397096_0.9620479387231171"
+			},
+			"directories": {}
+		},
+		"0.7.2": {
+			"name": "parsimmon",
+			"version": "0.7.2",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"devDependencies": {
+				"chai": "1.5.x",
+				"mocha": "1.8.x",
+				"ncp": "^2.0.0",
+				"rimraf": "^2.5.2",
+				"uglify-js": "2.x"
+			},
+			"license": "MIT",
+			"dependencies": {},
+			"scripts": {
+				"clean": "rimraf build/*.js",
+				"build:browser": "ncp src/parsimmon.js build/parsimmon.browser.js",
+				"build:browser.min": "uglifyjs --mangle < src/parsimmon.js > build/parsimmon.browser.min.js",
+				"prepublish": "npm run test && npm run clean && npm run build:browser && npm run build:browser.min",
+				"test": "mocha -u tdd test/intro.js test/*.test.js"
+			},
+			"gitHead": "87489822c0bd53857f0e0bf9aa1f67dce3a949ec",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@0.7.2",
+			"_shasum": "805fc6d1ed52d0c9b65cbf6b4da58a161e68e7e1",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"shasum": "805fc6d1ed52d0c9b65cbf6b4da58a161e68e7e1",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.7.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parsimmon-0.7.2.tgz_1466998124653_0.14480621949769557"
+			},
+			"directories": {}
+		},
+		"0.8.0": {
+			"name": "parsimmon",
+			"version": "0.8.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"mocha": "^2.5.3",
+				"ncp": "^2.0.0",
+				"rimraf": "^2.5.2",
+				"uglify-js": "2.x"
+			},
+			"license": "MIT",
+			"dependencies": {},
+			"scripts": {
+				"clean": "rimraf build/*.js",
+				"build:browser": "ncp src/parsimmon.js build/parsimmon.browser.js",
+				"build:browser.min": "uglifyjs --mangle < src/parsimmon.js > build/parsimmon.browser.min.js",
+				"prepublish": "npm run test && npm run clean && npm run build:browser && npm run build:browser.min",
+				"test": "mocha --ui tdd --reporter dot test/intro.js test/*.test.js"
+			},
+			"gitHead": "5c983bd04d2d0a207ff1e7c5b41fb9acbc9ff3c7",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@0.8.0",
+			"_shasum": "49ae9699ddcec4b55c488b14f7c1b693d0427452",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"shasum": "49ae9699ddcec4b55c488b14f7c1b693d0427452",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.8.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-16-east.internal.npmjs.com",
+				"tmp": "tmp/parsimmon-0.8.0.tgz_1467173925569_0.6405744880903512"
+			},
+			"directories": {}
+		},
+		"0.8.1": {
+			"name": "parsimmon",
+			"version": "0.8.1",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"mocha": "^2.5.3",
+				"ncp": "^2.0.0",
+				"rimraf": "^2.5.2",
+				"uglify-js": "2.x"
+			},
+			"license": "MIT",
+			"dependencies": {},
+			"scripts": {
+				"clean": "rimraf build/*.js",
+				"build:browser": "ncp src/parsimmon.js build/parsimmon.browser.js",
+				"build:browser.min": "uglifyjs --mangle < src/parsimmon.js > build/parsimmon.browser.min.js",
+				"prepublish": "npm run test && npm run clean && npm run build:browser && npm run build:browser.min",
+				"test": "mocha --ui tdd --reporter dot test/intro.js test/*.test.js"
+			},
+			"gitHead": "6539e925f5ba85c70e014488a86cef69b9cb10a1",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@0.8.1",
+			"_shasum": "55bd20413dff1594612d2974fb20bd4fd4d23d5d",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"shasum": "55bd20413dff1594612d2974fb20bd4fd4d23d5d",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.8.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parsimmon-0.8.1.tgz_1467349636369_0.1951495441608131"
+			},
+			"directories": {}
+		},
+		"0.9.0": {
+			"name": "parsimmon",
+			"version": "0.9.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"mocha": "^2.5.3",
+				"ncp": "^2.0.0",
+				"rimraf": "^2.5.2",
+				"uglify-js": "2.x"
+			},
+			"license": "MIT",
+			"dependencies": {},
+			"scripts": {
+				"clean": "rimraf build/*.js",
+				"build:browser": "ncp src/parsimmon.js build/parsimmon.browser.js",
+				"build:browser.min": "uglifyjs --mangle < src/parsimmon.js > build/parsimmon.browser.min.js",
+				"prepublish": "npm run test && npm run clean && npm run build:browser && npm run build:browser.min",
+				"test": "mocha --ui tdd --reporter dot test/intro.js test/*.test.js"
+			},
+			"gitHead": "ccda78e8bd8ab8b433a4fd5778498cfbd58721e2",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@0.9.0",
+			"_shasum": "77d005dff394608f7a5b1fe300821994f8c66aef",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"shasum": "77d005dff394608f7a5b1fe300821994f8c66aef",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.9.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parsimmon-0.9.0.tgz_1467954174004_0.5432769751641899"
+			},
+			"directories": {}
+		},
+		"0.9.1": {
+			"name": "parsimmon",
+			"version": "0.9.1",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"mocha": "^2.5.3",
+				"ncp": "^2.0.0",
+				"rimraf": "^2.5.2",
+				"uglify-js": "2.x"
+			},
+			"license": "MIT",
+			"dependencies": {},
+			"scripts": {
+				"clean": "rimraf build/*.js",
+				"build:browser": "ncp src/parsimmon.js build/parsimmon.browser.js",
+				"build:browser.min": "uglifyjs --mangle < src/parsimmon.js > build/parsimmon.browser.min.js",
+				"prepublish": "npm run test && npm run clean && npm run build:browser && npm run build:browser.min",
+				"test": "mocha --ui tdd --reporter dot test/intro.js test/*.test.js"
+			},
+			"gitHead": "c77d6a2fd4930c2d2cf89b04da4d362b59edd57d",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@0.9.1",
+			"_shasum": "80f95e6b78f16e8426d9e5792825db56a92fc577",
+			"_from": ".",
+			"_npmVersion": "3.5.3",
+			"_nodeVersion": "5.5.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"shasum": "80f95e6b78f16e8426d9e5792825db56a92fc577",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.9.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parsimmon-0.9.1.tgz_1468027780695_0.8295671825762838"
+			},
+			"directories": {}
+		},
+		"0.9.2": {
+			"name": "parsimmon",
+			"version": "0.9.2",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.browser.min.js",
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"mocha": "^2.5.3",
+				"ncp": "^2.0.0",
+				"rimraf": "^2.5.2",
+				"uglify-js": "2.x"
+			},
+			"license": "MIT",
+			"dependencies": {},
+			"scripts": {
+				"clean": "rimraf build/*.js",
+				"build:browser": "ncp src/parsimmon.js build/parsimmon.browser.js",
+				"build:browser.min": "uglifyjs --mangle < src/parsimmon.js > build/parsimmon.browser.min.js",
+				"prepublish": "npm run test && npm run clean && npm run build:browser && npm run build:browser.min",
+				"test": "mocha --ui tdd --reporter dot test/intro.js test/*.test.js"
+			},
+			"gitHead": "b37c36cd12cbcbb1790986d3f9fb17be38b87662",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@0.9.2",
+			"_shasum": "3f01a25839a944a8a4d92aaad00d54b5707e8049",
+			"_from": ".",
+			"_npmVersion": "3.8.7",
+			"_nodeVersion": "4.4.3",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"shasum": "3f01a25839a944a8a4d92aaad00d54b5707e8049",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.9.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parsimmon-0.9.2.tgz_1470587642152_0.37050810270011425"
+			},
+			"directories": {}
+		},
+		"1.0.0": {
+			"name": "parsimmon",
+			"version": "1.0.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.browser.min.js",
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^2.5.3",
+				"ncp": "^2.0.0",
+				"rimraf": "^2.5.4",
+				"uglify-js": "2.x"
+			},
+			"license": "MIT",
+			"scripts": {
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "npm run build:browser && npm run build:browser.min",
+				"build:browser": "ncp src/parsimmon.js build/parsimmon.browser.js",
+				"build:browser.min": "uglifyjs --mangle < src/parsimmon.js > build/parsimmon.browser.min.js",
+				"prepublish": "npm run test && npm run build",
+				"lint": "eslint .",
+				"lint:fix": "eslint --fix .",
+				"pretest": "npm run lint",
+				"test": "mocha --ui tdd --reporter dot test/intro.js test/*.test.js",
+				"watch:test": "mocha --ui tdd --reporter min --watch test/intro.js test/*.test.js"
+			},
+			"gitHead": "6aea02a9ffe96f0db77401233a62b6ac4aafc4f2",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.0.0",
+			"_shasum": "f653bded19be311e8f6f72fad57cf5ab392951c2",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "6.9.1",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"shasum": "f653bded19be311e8f6f72fad57cf5ab392951c2",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.0.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/parsimmon-1.0.0.tgz_1478144564441_0.8054921054281294"
+			},
+			"directories": {}
+		},
+		"1.1.0": {
+			"name": "parsimmon",
+			"version": "1.1.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.browser.min.js",
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^2.5.3",
+				"ncp": "^2.0.0",
+				"rimraf": "^2.5.4",
+				"uglify-js": "2.x"
+			},
+			"license": "MIT",
+			"scripts": {
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "npm run build:browser && npm run build:browser.min",
+				"build:browser": "ncp src/parsimmon.js build/parsimmon.browser.js",
+				"build:browser.min": "uglifyjs --mangle < src/parsimmon.js > build/parsimmon.browser.min.js",
+				"prepublish": "npm run test && npm run build",
+				"lint": "eslint .",
+				"lint:fix": "eslint --fix .",
+				"pretest": "npm run lint",
+				"test": "mocha --ui tdd --reporter dot test/intro.js test/*.test.js",
+				"watch:test": "mocha --ui tdd --reporter min --watch test/intro.js test/*.test.js"
+			},
+			"gitHead": "867cdc1005adc9a0b78b877dc7476e9ac3b5b8e4",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.1.0",
+			"_shasum": "94d0ca8af53260a2d62d6bdbdac925e5328ce919",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "7.0.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"shasum": "94d0ca8af53260a2d62d6bdbdac925e5328ce919",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.1.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-18-east.internal.npmjs.com",
+				"tmp": "tmp/parsimmon-1.1.0.tgz_1482389095021_0.7382955495268106"
+			},
+			"directories": {}
+		},
+		"1.2.0": {
+			"name": "parsimmon",
+			"version": "1.2.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.browser.min.js",
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^2.5.3",
+				"ncp": "^2.0.0",
+				"rimraf": "^2.5.4",
+				"uglify-js": "2.x"
+			},
+			"license": "MIT",
+			"scripts": {
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "npm run build:browser && npm run build:browser.min",
+				"build:browser": "ncp src/parsimmon.js build/parsimmon.browser.js",
+				"build:browser.min": "uglifyjs --mangle < src/parsimmon.js > build/parsimmon.browser.min.js",
+				"prepublish": "npm run test && npm run build",
+				"lint": "eslint .",
+				"lint:fix": "eslint --fix .",
+				"pretest": "npm run lint",
+				"test": "mocha --ui tdd --reporter dot test/intro.js test/*.test.js",
+				"watch:test": "mocha --ui tdd --reporter min --watch test/intro.js test/*.test.js"
+			},
+			"gitHead": "a60dbc6b1df01fb4ef308919b68fa180987e2e45",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.2.0",
+			"_shasum": "3ed4ae6c8913066969f3faeafe39961fdcadf399",
+			"_from": ".",
+			"_npmVersion": "3.10.8",
+			"_nodeVersion": "7.0.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"shasum": "3ed4ae6c8913066969f3faeafe39961fdcadf399",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.2.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "packages-12-west.internal.npmjs.com",
+				"tmp": "tmp/parsimmon-1.2.0.tgz_1482457532107_0.7323924235533923"
+			},
+			"directories": {}
+		},
+		"1.3.0": {
+			"name": "parsimmon",
+			"version": "1.3.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.browser.min.js",
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^2.5.3",
+				"ncp": "^2.0.0",
+				"rimraf": "^2.5.4",
+				"uglify-js": "2.x"
+			},
+			"license": "MIT",
+			"scripts": {
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "npm run build:browser && npm run build:browser.min",
+				"build:browser": "ncp src/parsimmon.js build/parsimmon.browser.js",
+				"build:browser.min": "uglifyjs --mangle < src/parsimmon.js > build/parsimmon.browser.min.js",
+				"prepublish": "npm run test && npm run build",
+				"lint": "eslint .",
+				"lint:fix": "eslint --fix .",
+				"pretest": "npm run lint",
+				"test": "mocha --ui tdd --reporter dot test/intro.js test/*.test.js",
+				"watch:test": "mocha --ui tdd --reporter min --watch test/intro.js test/*.test.js"
+			},
+			"gitHead": "673908c13217e0dbbaf31605f5dcb29fdbee67fb",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.3.0",
+			"_shasum": "e9f635b56af6d1b79a877246008f50ec9806b20d",
+			"_from": ".",
+			"_npmVersion": "4.2.0",
+			"_nodeVersion": "7.10.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"shasum": "e9f635b56af6d1b79a877246008f50ec9806b20d",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.3.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon-1.3.0.tgz_1496009787528_0.8483906153123826"
+			},
+			"directories": {}
+		},
+		"1.4.0": {
+			"name": "parsimmon",
+			"version": "1.4.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.browser.min.js",
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^2.5.3",
+				"ncp": "^2.0.0",
+				"rimraf": "^2.5.4",
+				"uglify-js": "2.x"
+			},
+			"license": "MIT",
+			"scripts": {
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "npm run build:browser && npm run build:browser.min",
+				"build:browser": "ncp src/parsimmon.js build/parsimmon.browser.js",
+				"build:browser.min": "uglifyjs --mangle < src/parsimmon.js > build/parsimmon.browser.min.js",
+				"prepublish": "npm run test && npm run build",
+				"lint": "eslint .",
+				"lint:fix": "eslint --fix .",
+				"pretest": "npm run lint",
+				"test": "mocha --ui tdd --reporter dot test/intro.js test/*.test.js",
+				"watch:test": "mocha --ui tdd --reporter min --watch test/intro.js test/*.test.js"
+			},
+			"gitHead": "bb298d8aac80fa9980e2db368517832ef7e411c0",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.4.0",
+			"_npmVersion": "5.0.3",
+			"_nodeVersion": "8.0.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-qmlu/EV4KH/VN7twp8MGZo+hn/r/XL8fguP3ic6zeXDqjb+SrO9VrnHSJDG5dcGJ78qvohNN6WRzAU2dF6jb8Q==",
+				"shasum": "682f3e45069ef5946aacac940e9b9d3de765d9a4",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.4.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon-1.4.0.tgz_1496728261262_0.5679637989960611"
+			},
+			"directories": {}
+		},
+		"1.5.0": {
+			"name": "parsimmon",
+			"version": "1.5.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.browser.min.js",
+			"devDependencies": {
+				"chai": "^3.5.0",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^2.5.3",
+				"ncp": "^2.0.0",
+				"rimraf": "^2.5.4",
+				"uglify-js": "2.x"
+			},
+			"license": "MIT",
+			"scripts": {
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "npm run build:browser && npm run build:browser.min",
+				"build:browser": "ncp src/parsimmon.js build/parsimmon.browser.js",
+				"build:browser.min": "uglifyjs --mangle < src/parsimmon.js > build/parsimmon.browser.min.js",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "eslint .",
+				"lint:fix": "eslint --fix .",
+				"pretest": "npm run lint",
+				"test": "mocha --ui tdd --reporter dot test/intro.js test/*.test.js",
+				"watch:test": "mocha --ui tdd --reporter min --watch test/intro.js test/*.test.js"
+			},
+			"gitHead": "8e585ccad29b7c33a96a35e7a0973e0e52402f09",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.5.0",
+			"_npmVersion": "5.0.3",
+			"_nodeVersion": "8.0.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-5tbSJFJkxRy6mkLvwed0O3dx9dig6Jhd/Ay0gzSdylR+z2lf5MLIJ02sZTQOxVpzb0WJzcxA8sq46Nw8NhAYxw==",
+				"shasum": "e6c8dcdbac0f49a7a06d3871063144586cebcaf8",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.5.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon-1.5.0.tgz_1498534214149_0.48463269090279937"
+			},
+			"directories": {}
+		},
+		"1.6.0": {
+			"name": "parsimmon",
+			"version": "1.6.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^2.5.3",
+				"ncp": "^2.0.0",
+				"rimraf": "^2.5.4",
+				"webpack": "^2.6.1"
+			},
+			"license": "MIT",
+			"scripts": {
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "eslint .",
+				"lint:fix": "eslint --fix .",
+				"pretest": "npm run lint",
+				"test": "mocha --ui tdd --reporter dot test/setup.js test/core/*.test.js test/laws/*.test.js",
+				"watch:test": "mocha --ui tdd --reporter min --watch test/setup.js test/core/*.test.js test/laws/*.test.js"
+			},
+			"gitHead": "05de4930fa7196148eb5a717b988c543e8345510",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.6.0",
+			"_npmVersion": "5.0.3",
+			"_nodeVersion": "8.0.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-zxq3tzNeYfkUBZAB/y1KHXnqKtm5vsiSepeEQaK3sWxtjmTyGYXUFYzrgj/SKpFj4xKMoKtayd3FyUk3s/SDsg==",
+				"shasum": "50bc6386bc909990272ca9ed84e8d0c06cacab4c",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.6.0.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon-1.6.0.tgz_1498544272493_0.5686127317603678"
+			},
+			"directories": {}
+		},
+		"1.6.1": {
+			"name": "parsimmon",
+			"version": "1.6.1",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"ncp": "^2.0.0",
+				"nyc": "^11.0.3",
+				"rimraf": "^2.5.4",
+				"webpack": "^2.6.1"
+			},
+			"license": "MIT",
+			"scripts": {
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "eslint src test",
+				"lint:fix": "eslint --fix src test",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov npm run test:mocha",
+				"test:mocha": "mocha -i src --ui tdd --reporter dot test/setup.js test/core/*.test.js test/laws/*.test.js",
+				"watch:test": "mocha --ui tdd --reporter min --watch test/setup.js test/core/*.test.js test/laws/*.test.js"
+			},
+			"gitHead": "7162b6f6d882963c45812d489011dcbfc40a04a4",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.6.1",
+			"_npmVersion": "5.0.4",
+			"_nodeVersion": "8.0.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-kgpKs+wVqMVJSrvSbKqHW2hS9RCxiG3uo4Ntkl80fWUa2iQR6VnGHd9xbj14hbvCrtbjf+Yjkx9UAogW3+7uEA==",
+				"shasum": "3e52652170a5a59728ddd349dbeaadf5117fdddf",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.6.1.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon-1.6.1.tgz_1498960736215_0.14746795198880136"
+			},
+			"directories": {}
+		},
+		"1.6.2": {
+			"name": "parsimmon",
+			"version": "1.6.2",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"ncp": "^2.0.0",
+				"nyc": "^11.0.3",
+				"rimraf": "^2.5.4",
+				"webpack": "^2.6.1"
+			},
+			"license": "MIT",
+			"scripts": {
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "eslint src test",
+				"lint:fix": "eslint --fix src test",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov npm run test:mocha",
+				"test:mocha": "mocha -i src --ui tdd --reporter dot test/setup.js test/core/*.test.js test/laws/*.test.js",
+				"watch:test": "mocha --ui tdd --reporter min --watch test/setup.js test/core/*.test.js test/laws/*.test.js"
+			},
+			"gitHead": "a5a597b530aea0ac7a8323da44c2f1ee36e93803",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.6.2",
+			"_npmVersion": "5.0.4",
+			"_nodeVersion": "8.0.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-bJNB0ZQhHyM5KqO2Z5ttQAVn/PZ2pccxaOnMcZ0Su7HA1Iv4GQTfUmzSZ6N3jcsCn9F68PZcypAvF3nDRRL+3g==",
+				"shasum": "28fbe6b8caa38ab89f52b77f8c7743563c7d9aff",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.6.2.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon-1.6.2.tgz_1499563754217_0.6312609245069325"
+			},
+			"directories": {}
+		},
+		"1.6.4": {
+			"name": "parsimmon",
+			"version": "1.6.4",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.7.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^2.6.1"
+			},
+			"license": "MIT",
+			"scripts": {
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch"
+			},
+			"gitHead": "13d84f29f5a08d6f25a65e98d6fd5a4beb1f2420",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.6.4",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.3.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-0RD7NpRXFg1iQDtjdCD9lizAT0FIXc0Z4fBlzLP3l9m5XjeYo9Ao6yvP5F58fiWkGWMXdwj6a+lawP+dNEUS3Q==",
+				"shasum": "7ff16d52d58b9769d019b401848ee2c9bd94dd86",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.6.4.tgz"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon-1.6.4.tgz_1514872472870_0.20723361312411726"
+			},
+			"directories": {}
+		},
+		"1.7.0": {
+			"name": "parsimmon",
+			"version": "1.7.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.7.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^2.6.1"
+			},
+			"license": "MIT",
+			"scripts": {
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch"
+			},
+			"gitHead": "c1e28fb576ac0239c691423a0813750fc8be5bb6",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.7.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.4.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-N78f2hfqGyApxDbrUc9N/Fn+3pHgQs7/sUulBmdFvQXxCYmFS6PrU5sISgsKdCnZthzXS4dQtMz+Y4rOootKdg==",
+				"shasum": "017d6132fe12b46dc0e378a52897c1fafa9cffcb",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.7.0.tgz",
+				"fileCount": 6,
+				"unpackedSize": 71829
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.7.0_1520721998309_0.6268657273365452"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.7.1": {
+			"name": "parsimmon",
+			"version": "1.7.1",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.7.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^2.6.1"
+			},
+			"license": "MIT",
+			"scripts": {
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch"
+			},
+			"gitHead": "13359d7a400a5b063dba9362cb57e904a304ff99",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.7.1",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.8.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-0amvvPUst/XG6qJWmLc2yDBdEcXRbvG9ENcYefC2KdYNZQVf7MJlpVgeJAapyiJGk6TdNSwA/mncM9rYMMQ9DA==",
+				"shasum": "0e1b8f6005b4ab856f1b189d13a538ee3f00f42d",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.7.1.tgz",
+				"fileCount": 6,
+				"unpackedSize": 71999
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.7.1_1521730588479_0.13470097523778213"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.7.2": {
+			"name": "parsimmon",
+			"version": "1.7.2",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.7.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^2.6.1"
+			},
+			"license": "MIT",
+			"scripts": {
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch"
+			},
+			"gitHead": "74f10d61644c2cd3f3f183916609a91fcdf0ba28",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.7.2",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.8.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-SBQtX1zjjYvkjU1pAl2MnxP+6dqEC2rMAmUlAOOGqNno8iti/4lDMafqPhmM71pEsy4+LnPdwdPbKvX8jKZvWw==",
+				"shasum": "e0c8aa132bfec54cc0d5d312d171ddd8f446c539",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.7.2.tgz",
+				"fileCount": 6,
+				"unpackedSize": 72295
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.7.2_1522979075969_0.5679669726576115"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.7.3": {
+			"name": "parsimmon",
+			"version": "1.7.3",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.7.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^4.6.0",
+				"webpack-cli": "^2.0.15"
+			},
+			"license": "MIT",
+			"scripts": {
+				"preversion": "npm test",
+				"postversion": "git push && git push --tags",
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch"
+			},
+			"gitHead": "427f932f77f896f7cee2107306e3ce44b6d02c1d",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.7.3",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.8.0",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-ZkEqdG3ygzGAa44cDEDAgQoslSSIOVuTw7k1Yct+2AX+3JkezNWBuzz2ON/j7RhxXptTQC7rwGxPg//rDFTvqQ==",
+				"shasum": "3e8a9ae1f651077c4f6dcf9b3ade1f9e60d085df",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.7.3.tgz",
+				"fileCount": 6,
+				"unpackedSize": 49767,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJa3Q8mCRA9TVsSAnZWagAADEsP/0om4Xncgx+lPx08hltb\n+nOAmUznFlUvyfVCaqT6tWLx+p7+eslmtXaakX96FNB8DoHUHh8frPEdKQjt\n6HAxV2y6bT1IbdSfD+ie3QJ6gqzHkw9cEQnh18oFV8NVNRIgIPhzcEtbRfhY\nqHRYcjHeH+N5VQOb9gups8pEnOuTSAWVzwXiWcRNdESNAahNGd8Z3OntsPYT\nIlD6vQ6FjYnNEON1U6dev1U5z8iuxeaQQ9NxaVjKOIZK/p10ukvboLVpRXAI\nbLVTx0yJCnSval09aLTV2GMwmhs30xn9OmliAyVAhDamTb+y7p9uZeTwa0W4\nFmHBM88WZTChLTKStrEaDeAoeeVsNYeAupf40M7zPKBNLaSOE4zK04PKLXae\nUf13O9w3ovfwJCiSS9OgSpxDCZ413tows3liF14POJxul/dibp2QnmHOCYJG\nuC/ZoQx+OZ99LCQGQDVOtlup10gCgK6H0xQSC6Gp9wSQPWDcef7fmopBMPfw\nbyBUvfQCwEpompwaqKIdCYhERJFEXTmOvOmSZaKDgKIYe2qDUtlfDW3u9qbL\n2UJSmRLjPWkb2hEbfHQ+e//OsP/JOb3JS80qDYk84eddujclPmSvvHOB7+ZR\n3MkyT2gI6YjQgyRq2N0oW5yzTDD69n8I01WctWV1h0HGuyhsZeYjw3aUdn7w\nSBNd\r\n=OM4o\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.7.3_1524436773520_0.5857340848151908"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.8.0": {
+			"name": "parsimmon",
+			"version": "1.8.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.7.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^4.6.0",
+				"webpack-cli": "^2.0.15"
+			},
+			"license": "MIT",
+			"scripts": {
+				"preversion": "npm test",
+				"postversion": "git push && git push --tags",
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch"
+			},
+			"gitHead": "840d02b24b566834df6e4337ad87e4b9e32a1f73",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.8.0",
+			"_npmVersion": "5.6.0",
+			"_nodeVersion": "9.11.1",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-qRUCyM2Z2QX1N3EueexSWkzSzVvQQFwvX/mfGlpL7UiJdPhzkOBFd4H0O0YwZ6Ud0cOxuawrN7WSi9/R3a1gqQ==",
+				"shasum": "9aa1072b6ed9116ae746cdbd3a8db0bb680d57e8",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.8.0.tgz",
+				"fileCount": 6,
+				"unpackedSize": 50542,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbFf7RCRA9TVsSAnZWagAAmsMP/2eaEGQ3fiy5eCtoCCdY\n/8cUOYm7ap8e9JqEh21uWtksYh1yovneZEax7SLrei3LP5yvrL9eLxgSnpxh\nA0Xr6bE05X3ksl+4KGTeGYLRBb0XWFvBT9I8saZj9Pyr+q1WjZeix18DI5JP\nbhsVGC6jzY7cUkp7kVKhXNZzzF3VkmjR/1GOJ9qEp7l1UNDEHj2N3IwrZN+r\nVOllg7sn79sJi5NLhVHFOmsGJguI3z5Kn9u5jwOxDxnRqPHR9BrZxsGByXeN\nwvmS1tOdkRDQCLOLktZltZpFfht32/UBlOXgCyhaejDukPbp80VUgRbAGZDn\nnFjaxAVykOmf3p86njm+5Mx1wqmagrDuKt5pwms1vfjSQKixghImBdhoQQEq\nMgJFNk0z88S6mOiNkaVaE8bpf3EBsxA2IloRatCako74ZeJsFhIwK8/aw146\n3Sb0uF/GlAuZJJIQ8stEyqAxRE8xIy4VYclK/USvADSbndzuwlJjL9cL8eNh\nsH/h3RnGX5K7f2+Mnsw04pbVuoBVRANK+cK3uIgyBH53/gnaDklGQ7XFNKyC\nhg2mNOsr9QhSGJo5ElHdANX7lX+KzqAHmnXKMYGqBdjuBGfVBV6h2RaTzxxP\ngD/FSQUcl3s74LN8inpzvMGIZ2nUtCUXrn3qcMzeht7h821IPunntokTAa/i\nTnK0\r\n=Rm3U\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.8.0_1528168143765_0.48392237332275"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.9.0": {
+			"name": "parsimmon",
+			"version": "1.9.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.13.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^4.6.0",
+				"webpack-cli": "^2.0.15"
+			},
+			"license": "MIT",
+			"scripts": {
+				"preversion": "npm test",
+				"postversion": "git push && git push --tags && npm publish",
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch"
+			},
+			"gitHead": "da33f6e66c926ceb8afe1711858c4c1072a442f1",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.9.0",
+			"_npmVersion": "6.1.0",
+			"_nodeVersion": "9.11.1",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-NgVmjYvo2rG+iwF2S3B9DCGdmICa2w35740GBsu+sFH/I1Jdk3vVaXgEHFtCKVL1vetzm3rKHZi+JdxmJPBnQw==",
+				"shasum": "7d2110c2e28a468d3aa27bd0735ff9ad05442e63",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.9.0.tgz",
+				"fileCount": 6,
+				"unpackedSize": 50631,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbJISQCRA9TVsSAnZWagAABq8QAIuwdyI7nUMDj80xnTUq\nDaRqPiu4qDzX8MVp5XD2cxAcuFPFdKYFPEK96h+SCEP1Ptz5UDoHhCgd7t8M\nxnk4Ar0jzUq2HwZkgIFPUbVn7M299OWyIQC1nv9r4XAh7mKfT/4x2OTwh+nZ\n6UNbd/Uov1cw68QmXD3FW5PVnyEWHkzI2VBYdVpW/pvINxhDDOSZo+eTUr9O\nQyzNJ5m+gX7YW2B33jZzrh+OONayOHK26OTAqXAJQCxvJqWhWGxrwd3HSty2\nvd67I8lRSetbT/ukzL2AZyrGk3oGHv86mb+iJzqOsvkahs+3IMLjWxNTuzQK\np+ha9d9ztNJafRAbkCX1pUbRJ10KewOse9COjHhHpbhAiJP0Xpl05feYkh7Q\nk3TrKUtMzAq0IPpVjNZ7Him80MqJNjBaEp/eLwel+PeE8F13CCNy2TjtiD/g\nJzgCp7U4zXiSwSZLZKLsUm864yr0beAqk/cYnrXcLtc8e4WefDOISB4bxVzJ\nKlO9fyfjL3aWACPeQD0KRl5sdOH9FFu+ApI1GPMnrcggxZdOviWjR+h+9K1s\n7ihuU9NfUBG7lv9i16W72xhmmL+wGpdF/4Nnn3TqDBskCUC/okr/EUiVYXXX\nhK5RCxIcGVYMOWNIdP0Zm+4txzmxVjtFjfjECADDKR2d8BbKDSaDRKb3YUvw\n+17s\r\n=HZQM\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.9.0_1529119887136_0.9853718897438268"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.10.0": {
+			"name": "parsimmon",
+			"version": "1.10.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.13.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^4.6.0",
+				"webpack-cli": "^2.0.15"
+			},
+			"license": "MIT",
+			"scripts": {
+				"preversion": "npm test",
+				"postversion": "git push && git push --tags && npm publish",
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch"
+			},
+			"gitHead": "1a4f6a97d4807c573a6e7f9aebdc2a10a005b479",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.10.0",
+			"_npmVersion": "6.1.0",
+			"_nodeVersion": "9.11.1",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-Yblcbi4seY6o2wkvch482M+6ALfkIMpl/RT94N/5VLukAzJcgMx9nq7k4mWe016mG7EGMFPJK/s1MjjBTQ953A==",
+				"shasum": "303a0fc2ce2fa4326481d702093b471dd089b6a8",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.10.0.tgz",
+				"fileCount": 6,
+				"unpackedSize": 51307,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbJq5vCRA9TVsSAnZWagAAF2MQAIq/Clfh3Jkf6tXAa4Cg\nzodHNrTqzY000+gK7xgqPo+VSDT/npdW3m9EoJyxPUbyTIdgYSlFmAm7hKTq\nKr9NY7Rl2fWf2tjJqvunc2+bquk35NwxFmplsV/Q3cPJ4FOuev54MUlcUxpI\nFEBjN0PwPBiCb7yUMMO7POjudw4RTpvgIbpdPzxvz/zL1MRx2FQ8KVP8T29o\n+Rr/eV9t8+bWPUQ6vti2fIYzQ7uRL6+FSEub3/k458sh/UKGLYRW0b21R2cO\nzIiut8KzbNl0541cZ4Wdsk/vI6MrEekauBwCdprycbRXfvUl0Rcntx0tZdlo\nbcOwDMkE3XmTRsP0TRS2Mx2nu4il9hkNaiWUfnWpghtwwWJMyPsgSFT1cqFf\nHixVTmYhHTmdGtjS5DPpSkpEYn5LHKPDZlNYVhnbBA4TKfrQ1V756niN2VTw\ni7xXVyKS+OigZgKKeyZzkQGoVdbZp+0q50SV82hQQ8clCH5cmJSEnPXAwXwM\ncwyb0aPPltNIXaPUuqbjm7hG0E4WHJuJOe29VYUb+jvoEJaQjgOXLhmW86IU\n5+KWVv+3PNJmz1rTN1Joa6Sj7o2k+D7PrZuTpniiS4US/GcvGA/npPHn2is8\nwijgKhdZHG+ldptCQHlikBRI7+5NrABL0ul6IR8IAsT0nUb/XsYmKOaCjiGB\nYCD6\r\n=bvz9\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.10.0_1529261677393_0.03290260891737584"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.11.0": {
+			"name": "parsimmon",
+			"version": "1.11.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.13.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^4.6.0",
+				"webpack-cli": "^2.0.15"
+			},
+			"license": "MIT",
+			"scripts": {
+				"preversion": "npm test",
+				"postversion": "git push && git push --tags && npm publish",
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch"
+			},
+			"gitHead": "5a5dbc2f966e36b09eacf50328024767c2f4bc4d",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.11.0",
+			"_npmVersion": "6.1.0",
+			"_nodeVersion": "9.11.1",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-zCXnyR8UNqYDO0BoNM3MH9qsM4eAaXo423g4UToc1XHaFpGtcHQqdVsSZ7npc+rUitqkB6aYcMoHmZkMtojx/g==",
+				"shasum": "ae825f1ebdcb6bdf4d2ccead9beab5832f8af473",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.11.0.tgz",
+				"fileCount": 6,
+				"unpackedSize": 57476,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbLsY9CRA9TVsSAnZWagAAcu0P/18LI2IrismFmKLTNwbh\nny5y7Trn69iypXuKKfe9uytkXFMnmzJFemcR4UZRr5+cTm3YNPiBEE4qyTrT\n3bHjG/FmXAFjsQd77GlmkSSBezvkzvGCXbvTH5ZoPdWw1QCze/VE843au+2i\nI8f7hfacZgh/kEzBbwfcMceyQJBu6ISIiuP5hOimyHxnyVAudJRNokV5pELJ\nYKIScw7E2KHhlKXqBtUzRXxcepwNKgIiIi091bniobPpFFk5knHNogS/vClG\nPb0xePjZ2WWQfVOr8gTie86Vu54NolfpE6xF/i8BHgB8br0X8H6D49U7GqE+\nAHpAYYvygRMQqmRlv2iPZtTa1YKs3NUDbYAiTOVxEq54B27tuwc1e4iQFdpL\nA4D9Zf+izqwD7o7VHDWWZHBc+504y2TDOjkOxDp1eEE5QI08fqFdzDZIKJ+4\n2/nYGlDSy9H0NGGY815i+r6gnCEGD+8BJ+rdmOZqnjR+cy+F/W4qHSY8hduD\n2rxN9L6tQpZTnkpA9QrTQYByr2fx9h2KYsFGaDfb8fN5h8D93yJ8uQjkmMG6\nhRQGaR274kNgUPqsh7h5ESDSrRxzzNL45Mx/Rpaxj+iJSK7Vdoys4Jwholad\nuFojlyENTQxb9wsMl8N2wTOqnHembgJ41aJpadO1+8lV6wM9EEnhL8vs9Htq\nAamD\r\n=nM2B\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.11.0_1529792061662_0.9346516493305537"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.11.1": {
+			"name": "parsimmon",
+			"version": "1.11.1",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.13.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^4.6.0",
+				"webpack-cli": "^2.0.15"
+			},
+			"license": "MIT",
+			"scripts": {
+				"preversion": "npm test",
+				"postversion": "git push && git push --tags && npm publish",
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch"
+			},
+			"gitHead": "f3699ec0e9b8d9fdf7445ed76f930564dcd4cb64",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.11.1",
+			"_npmVersion": "6.1.0",
+			"_nodeVersion": "9.11.1",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-HYAWQoaMIrenEt2qToREaCCH1D3d1FBdn/YHPfIBmnFI9cMNABIaj4jga1gr6mtif3Wtm58Ya2LRqUz6HdHS/g==",
+				"shasum": "86493d7130636ffdcf748913b84f23916ec16f31",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.11.1.tgz",
+				"fileCount": 6,
+				"unpackedSize": 57365,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbMZb3CRA9TVsSAnZWagAA6RgQAJAD8mBrkyzp0rMALqV7\nRDwCPtYxUNUQuDQTt6NwjwGyFDyxb7Z2wQtL78UXUBpWlMq0pxo6LU9vkWIO\n8IRzzbQiPkozgEyKITiDQFg93pl31IqRMl9fiQIIfK0IIul+Z7cX1S6+iq1l\nPoMHIqZdWvZmMW2s9cFUfOB2XsnePQufWPq6yCo3n6n2nQUPoKF8cN3Gxpe3\nwgn1tZEDQ4yVvf3F9sfn/wRZe0JW0HfI7avVSllx0V6CJr9S4R5ZQUXxzf5Y\nNmLpWpHIQXmk5ir+Xl82IlsXsxWFJTRR6zzRzf+SRMCunwyMn11b0vVIMzq8\nP5ZUgHhfIufoODJJ8proWpk1MDofIgxAAB2wx8XCC+0BI6ynXZa1usPwiuwW\nBK3zcq63+Qf0vCgGvU0Ip8VyeeytNhW3amrnYDFgLFhLp4jpHuf7SnoXBXni\nJZaj5qsUEpslGQMh9tdZs+ShooV7Hr6OSh1O3iDl2fvamNMk4MLNiBBJxmwR\ng2LF32ogOjU2snvh5na772XLMn8uia7GLwTCQ+fI2jwT3om5bWwCPUnk829E\nFZ4Oj8p6q8mn7FItb9tilA73Cd25EXVJi0DRKJxyRPAZ0R5ByaLDIzTaVb1q\n/fOnpScnw3UOlvETdLA5Ddkte4JIB0InZyDFTzrIjBIdRQvWx5cCdztF3Cv6\npI+F\r\n=H1B8\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.11.1_1529976566978_0.12997643695936567"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.12.0": {
+			"name": "parsimmon",
+			"version": "1.12.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"files": [
+				"src",
+				"build"
+			],
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.13.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^4.6.0",
+				"webpack-cli": "^2.0.15"
+			},
+			"license": "MIT",
+			"scripts": {
+				"preversion": "npm test",
+				"postversion": "git push && git push --tags && npm publish",
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch"
+			},
+			"gitHead": "93b6c42dbfd5b39a3f8a32226289c51671d52128",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.12.0",
+			"_npmVersion": "6.1.0",
+			"_nodeVersion": "9.11.1",
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"dist": {
+				"integrity": "sha512-uC/BjuSfb4jfaWajKCp1mVncXXq+V1twbcYChbTxN3GM7fn+8XoHwUdvUz+PTaFtDSCRQxU8+Rnh+iMhAkVwdw==",
+				"shasum": "886a442fb30b5fc3c8e7c4994050f5cdcfe0ea90",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.12.0.tgz",
+				"fileCount": 6,
+				"unpackedSize": 62370,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbSBaxCRA9TVsSAnZWagAAiwoP/2D7k/8oHEz+VlKIPJ0Y\nva31GeXqnVX3bYcNoVnW78q4qwoBY5HrRckipRWJhZDW/iW3M9FLRoowqI65\nKtJGnDNDHjy7eMnlCrpFqOWQ7DiEcenXV8MFFXDOv0GMfYgRXwTIYX1uVVnH\n0dOzkOXePOFtQXnW4WHpQ2jYHYjvi/V/0HugKZJP4QStlPMQUo72nJxipD34\nOrWiWJdsvU3Ig5MU1CM/6pWrlm+nyO/ZtM2cqOSnHMLwt+/vkwelW62nEgRq\nF+DC1E+GaIm4TLriG0yPL4P9q0LTboVo6+sB5Wdx4QALo3PXFgM3Qvq2RoXG\nfgInRyqhUKyRawU4yRPXCQH+Pucq/pyfazYv2OpxkeHIPegvrkXa6EORlSRI\nMIGg1BQVWUZAs0umEM33y2ZXGCOGlgJsrhmJ+L2gQc9ji04Vh3+ci2RjRJtl\nngw1SWaQ2+k62jKTx7rc8cC0cfpVORofnDouYP6w4U8Rk27AampC39NMGI01\nbruI0YJH2ul1i5QzssPupes2PxdHjbWALJo9qnMO+VekD7es4sMtPOambUmp\nSCFtBbeO5P5jhJDKxgITjHETTQLssK4tHRQHBI4RH1itcA5oM1uYEwztvNPz\nFq/0WtPKdkIzokqzAJQtnxFeN5WjcjRTEZY4IQYYt5ugD/GUh+WpiDaZHEht\nJtub\r\n=xLrq\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"name": "jayferd",
+					"email": "jjmadkisson@gmail.com"
+				},
+				{
+					"name": "jneen",
+					"email": "jneen@jneen.net"
+				},
+				{
+					"name": "wavebeem",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.12.0_1531451057322_0.5707228256330001"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.12.1": {
+			"name": "parsimmon",
+			"version": "1.12.1",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"chai": "^4.2.0",
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"karma": "^4.1.0",
+				"karma-chai": "^0.1.0",
+				"karma-chrome-launcher": "^2.2.0",
+				"karma-mocha": "^1.3.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.13.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^4.6.0",
+				"webpack-cli": "^2.0.15"
+			},
+			"license": "MIT",
+			"scripts": {
+				"preversion": "npm test",
+				"postversion": "git push && git push --tags && npm publish",
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch",
+				"test:chrome": "karma start"
+			},
+			"gitHead": "8937ceb4c1c6f60bddd8b4de7bfb405f9b7177f6",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.12.1",
+			"_nodeVersion": "11.6.0",
+			"_npmVersion": "6.10.0",
+			"dist": {
+				"integrity": "sha512-70VLg2g5CV8iBDYwxvREdR8qq56Y06K34+Dw8ENGvJWIsmOfs9ijB4IMPbYFVzOEhm2jRE/qTquq7GJ7tPnL7w==",
+				"shasum": "4c08eb645934e2955517f1cea7c3613be9a1f091",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.12.1.tgz",
+				"fileCount": 6,
+				"unpackedSize": 61424,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdIpckCRA9TVsSAnZWagAArEIP/jdEe7GKQSNPmSPTHCbS\nZFwdAXlpF/xhtzbnu9wbJS9bp+jQcMtg77psU/awkiI68jm3tMLdqhpXppNf\nArgHXaLU+kUk4eXBOjWOOrRKVWuc+2pz5LzmUhsAsny1OvRTI3D3teKSmW+G\nH0dq2qCRp9jPOvo534+UJTfzHVoZY7omWvjVQsMDfUYyN2QFBiIYYmm0yaAR\n+jXAEHc2XFPrZakEW5JkudkUiuia7ufCCFHJjuVOCdmICNHf2/H0fJIzIPMn\n2Nc6X+I4Mm6ZFc0nchzBBC4v7+JvU6Z7KUYPWaBPFJFfVbxpGaa19E1f3o5Q\nc1DvXGZzLPLdh+ld3vbrwV2Ni3rNXn3PvAA1QGPYmpOLYXYN4JNagRIKZK1m\nw6Ls8rW2MtXkMdur0gd3ypIZVhvDDHaw3wHTvoyl7lX0wCO0ofmJVsxhFsEr\nRpRiwrpB71vJAUwVQ9j4ZAV9uo6J0cUXE3613Vlz92Kl2waGJBx2FR870vV0\n4SmyjJ5LCZNaF8WbTTNeviMgU+zaMCpYhAyYx2YudUAGU1NzW4me0z3Qi8UU\nN71ILTmzKuJW/SFxlGds9AJ2P+k5nVWm3QRDwMbztn99N139HS+PAI0Gu08g\nK1xkvFLce/EUneTIaF7X5yGIStbTtcY5rWHMfkvfbAe3c6VFvQUqIY+gO7h9\nEfsi\r\n=wMRK\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "jneen@jneen.net",
+					"name": "jneen"
+				},
+				{
+					"email": "brian@mockbrian.com",
+					"name": "wavebeem"
+				}
+			],
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.12.1_1562548003618_0.6426102950065753"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.13.0": {
+			"name": "parsimmon",
+			"version": "1.13.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"chai": "^4.2.0",
+				"coveralls": "^2.13.1",
+				"eslint": "^3.6.0",
+				"karma": "^4.1.0",
+				"karma-chai": "^0.1.0",
+				"karma-chrome-launcher": "^2.2.0",
+				"karma-mocha": "^1.3.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.13.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^4.6.0",
+				"webpack-cli": "^2.0.15"
+			},
+			"license": "MIT",
+			"scripts": {
+				"preversion": "npm test",
+				"postversion": "git push && git push --tags && npm publish",
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch",
+				"test:chrome": "karma start"
+			},
+			"gitHead": "43015ce8be32c0cabecdc2aef439ba23a9091332",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.13.0",
+			"_nodeVersion": "11.6.0",
+			"_npmVersion": "6.9.0",
+			"dist": {
+				"integrity": "sha512-5UIrOCW+gjbILkjKPgTgmq8LKf8TT3Iy7kN2VD7OtQ81facKn8B4gG1X94jWqXYZsxG2KbJhrv/Yq/5H6BQn7A==",
+				"shasum": "6e4ef3dbd45ed6ea6808be600ac4b9c8a44228cf",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.13.0.tgz",
+				"fileCount": 6,
+				"unpackedSize": 61768,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdOo5YCRA9TVsSAnZWagAAPusP/R1fcUBQ4XgeDIyKSNuG\neZ1imDuDUGRkm8cB72zT7VoC6DcECJO6jVCCt77QcZvv/9DhWLwGXSiC7iUW\nU2o86QBkoU6QoNtWOubq6dIqtemAyS2DU2E7i9A325OdtYeCXlDiDfAePZDS\nBTZlXB2W/+7RYVdbE6M+DjbFydGyQkysxutZST+Ruva3j15e9cglJXnh2PK7\n8EjAXqRxoNnD2aszDC02HLInlUBjk0/oLIphbjdUn9nE2oEDKBgqJzwzI6jw\n1BEMif6kxte9ZF5fXTWp8CvddFiaohh6BeKQ5Hjc+z08eRYfOSq9p9BGu96X\nyJzcZdQ/SpWZZUWJgqFFsv2BBplnLtd3J9frZWm8VqyOTjtPvLXXzoyDCHKG\nx2+R2GY8zu3zpbkfhoI7s4dd+S0QgxLLerqE4/v9nEwbrUQFbV+coDxvgrei\nvaKSlMi+YW1jGJEoxC6Ts7D/nJNTmTfUlcuojX7XEVN0rro5EhKXDwoHU8U4\nxkcZl+H9OkSpvCAM7z+IW5vNSlAcB4GY+tLoN0p2XbtlKp3KYNNst0uwLIR0\n4BXDZKRmvzqQJ4OesG0Px6SPDAZvTRERYtIX2D2ObIgClOdKem+LztSUOd1y\ndIijewphUyFV9Ie7FS4h3LJEEKwKpiqg2Kc+dDr2/4xV1SRz6u3jpOBDH32N\ntU1S\r\n=hVzt\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "jneen@jneen.net",
+					"name": "jneen"
+				},
+				{
+					"email": "brian@mockbrian.com",
+					"name": "wavebeem"
+				}
+			],
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.13.0_1564118615744_0.07374437793624167"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.14.0": {
+			"name": "parsimmon",
+			"version": "1.14.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"chai": "^4.2.0",
+				"coveralls": "^2.13.1",
+				"eslint": "^4.18.2",
+				"karma": "^4.1.0",
+				"karma-chai": "^0.1.0",
+				"karma-chrome-launcher": "^2.2.0",
+				"karma-mocha": "^1.3.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.13.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^4.6.0",
+				"webpack-cli": "^2.0.15"
+			},
+			"license": "MIT",
+			"scripts": {
+				"preversion": "npm test",
+				"postversion": "git push && git push --tags && npm publish",
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch",
+				"test:chrome": "karma start"
+			},
+			"gitHead": "3acc82d3d6a6e770eb61681c6579c2030f19e9f5",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.14.0",
+			"_nodeVersion": "11.6.0",
+			"_npmVersion": "6.13.1",
+			"dist": {
+				"integrity": "sha512-m8aqXkvJbdsvlc1ROUKyRo+OXbD2ZTbL6iNRnGdJ4PCO0ccMEfklwHYxq5zaj0Injj2ZtC65B3Z2N9+fTTpSdw==",
+				"shasum": "50da297f3ba0894f561108133529d305d564f75c",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.14.0.tgz",
+				"fileCount": 6,
+				"unpackedSize": 63218,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfBogWCRA9TVsSAnZWagAA57wP/3OMlaoLqIsQAPGXZHIq\n8JYE7gn38BpyPsVDuI9n/KsfGVyb/FMniqloVu9/FC296sEBviWPXGct7j3X\nuErjtpFmrrFAnuXvRuDy8mHg478dZanix84b6k8wx+F+OAxpQE4iTWnzQ/cX\nnnq7Rpva7rdDOaXuJnA+kYcdkWTO5vxIyRStjCa0c/G2f4CTaNMLQIrtlilv\nZdM8rflAcXDn5TZrdRMg5pxmziJKugHkp1czycMCclXgCF21Pux7jfAZdmI/\ndTYviZoI95Sych7g3kdDtNg8ydUmxQAiK8Xivk+zpvoTAxZqZjtKC9Ynwn5c\nnL+nwq6XyptDtrGcSSW1LU5Qk9N/zTRRzqy1d4Jk+wbqeaGKnUle0g2+XRdM\nLEKzZVR2RizYnyzgdjqFaQtFFbfzPW+OrKzaQQ1MBfQSvxvqTTfRc3fvDeNp\nuG24VlknCLV3hXBahZ485JoMGirNE9qRpFOTjlqStg/U5DMctrmaUw3wgDwU\neJbQShP4mncWRPueXRRolALpM12G1hnEVOWlHcF6DN25DmCP1erjTLFG8EXn\nWbfHQBbVU42lujty63ftzSmlI694j5gB4p+VawTeyShe3/cb8PE1ZjQEgWqR\nhwXEn/U1DihGEQldfrl4twFMGVGv7IVNckLTxvv4r2d3t2zQW+fZNYf7tz/K\nYkZ2\r\n=KKRh\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "jneen@jneen.net",
+					"name": "jneen"
+				},
+				{
+					"email": "brian@mockbrian.com",
+					"name": "wavebeem"
+				}
+			],
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.14.0_1594263574037_0.8282002432953344"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.15.0": {
+			"name": "parsimmon",
+			"version": "1.15.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"chai": "^4.2.0",
+				"coveralls": "^2.13.1",
+				"eslint": "^4.18.2",
+				"karma": "^4.1.0",
+				"karma-chai": "^0.1.0",
+				"karma-chrome-launcher": "^2.2.0",
+				"karma-mocha": "^1.3.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.13.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^4.6.0",
+				"webpack-cli": "^2.0.15"
+			},
+			"license": "MIT",
+			"scripts": {
+				"preversion": "npm test",
+				"postversion": "git push && git push --tags && npm publish",
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch",
+				"test:chrome": "karma start"
+			},
+			"gitHead": "67d0df07e3a36b8e1384e33b875c1d9ff93391ac",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.15.0",
+			"_nodeVersion": "12.18.3",
+			"_npmVersion": "6.14.7",
+			"dist": {
+				"integrity": "sha512-uVkLnetYHtdynrJccK+04q5bfdJbPV2uUAkD9HkYuT+E+IAKTRXGpo+YgqvDRADv1gVwcL/aCM9pOztapj8cyg==",
+				"shasum": "524999dc705c24bb08b6f729b9ebaa0e941f3ae1",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.15.0.tgz",
+				"fileCount": 6,
+				"unpackedSize": 63339,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfHv9iCRA9TVsSAnZWagAAntsQAJQ80BLhetCOlwyEL+ON\nCcpCZ1SD3+OltgKGQMvTN/iX6SLR8wrteXpvYV+gHaQFFN+KQO/SVL/oVXfo\nc8XqQCYFJ5uKaxD2OGw0j59Q4iH1dpEyKol+EL3kAiMHKkHdHkx6vljyofk5\nevNf47DWR3RCmarFz6q0vWx5MONU+0eXp/wSWiWGLQ2of1H7BPOU09eGeegS\nXb0ItjS7gZSIKHOKjEIJwvMJ70IfoSEnfIPmAJsgeqL90/lrN3pmMv76R0eU\nv9MuxHL9gsUKYWRHhNx5c/b+iXo9yvzSuw9C1+7WiIoxsr65PbAM5MGTD8yA\nikooT1UbqtcmZEM+PEi3Wb+USzlSVjY/JUjJPOsX+x8+S05CktOYhc0J4wew\n2bwt0pcqzbOgQJliieFZBphNRMnWat3YTZ8pnbMVX84wWld8XnJeynGLXNFS\nut9wDei1FqUP79bKhD13trbBp8kyHdgP1JevrG2s7Nl8yxmvpU4ReCjQXfqX\nNIdfq1Jn2VknDRdZppZ4spQRLxb2wzAkhZoA3uCQO4CaBSADia/TYIlNNsSR\nzh0Juwic6B02BrIHhevYxHJnk41zbt5tposRczvtkRyJ8T8mLMRyuOgUKO9j\ntLPPD0PHLdIAb8isSg1updFdR5d5B+Ec5aRDIYoLFixesck458+8+ZRtMD50\nUfpi\r\n=/Tcw\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "jneen@jneen.net",
+					"name": "jneen"
+				},
+				{
+					"email": "brian@mockbrian.com",
+					"name": "wavebeem"
+				}
+			],
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.15.0_1595866977414_0.16141840878419322"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.16.0": {
+			"name": "parsimmon",
+			"version": "1.16.0",
+			"description": "A monadic LL(infinity) parser combinator library",
+			"keywords": [
+				"parsing",
+				"parse",
+				"parsers",
+				"parser combinators"
+			],
+			"author": {
+				"name": "Jeanine Adkisson",
+				"email": "jneen at jneen dot net"
+			},
+			"contributors": [
+				{
+					"name": "Brian Mock",
+					"email": "brian@mockbrian.com"
+				}
+			],
+			"repository": {
+				"type": "git",
+				"url": "git+https://github.com/jneen/parsimmon.git"
+			},
+			"main": "src/parsimmon.js",
+			"browser": "build/parsimmon.umd.min.js",
+			"devDependencies": {
+				"chai": "^4.2.0",
+				"coveralls": "^2.13.1",
+				"eslint": "^4.18.2",
+				"karma": "^4.1.0",
+				"karma-chai": "^0.1.0",
+				"karma-chrome-launcher": "^2.2.0",
+				"karma-mocha": "^1.3.0",
+				"mkdirp": "^0.5.1",
+				"mocha": "^3.4.2",
+				"nyc": "^11.0.3",
+				"prettier": "1.13.4",
+				"rimraf": "^2.5.4",
+				"webpack": "^4.6.0",
+				"webpack-cli": "^2.0.15"
+			},
+			"license": "MIT",
+			"scripts": {
+				"preversion": "npm test",
+				"postversion": "git push && git push --tags && npm publish",
+				"prebuild": "rimraf build && mkdirp build",
+				"build": "webpack -p",
+				"prepublishOnly": "npm run test && npm run build",
+				"lint": "prettier --list-different '{examples,src,test}/**/*.js' webpack.config.js && eslint examples src test webpack.config.js",
+				"lint:fix": "prettier --write '{examples,src,test}/**/*.js' webpack.config.js && eslint --fix examples src test webpack.config.js",
+				"precoverage": "npm run test",
+				"coverage": "nyc report --reporter=text-lcov | coveralls",
+				"pretest": "npm run lint",
+				"test": "nyc --reporter=lcov --reporter=text-summary npm run test:mocha",
+				"test:mocha": "mocha --reporter dot",
+				"test:watch": "mocha --reporter min --watch",
+				"test:chrome": "karma start"
+			},
+			"gitHead": "99af8f8d8dd0c1aa8542e8ef930805b295194086",
+			"bugs": {
+				"url": "https://github.com/jneen/parsimmon/issues"
+			},
+			"homepage": "https://github.com/jneen/parsimmon#readme",
+			"_id": "parsimmon@1.16.0",
+			"_nodeVersion": "12.18.3",
+			"_npmVersion": "6.14.7",
+			"dist": {
+				"integrity": "sha512-tekGDz2Lny27SQ/5DzJdIK0lqsWwZ667SCLFIDCxaZM7VNgQjyKLbaL7FYPKpbjdxNAXFV/mSxkq5D2fnkW4pA==",
+				"shasum": "2834e3db645b6a855ab2ea14fbaad10d82867e0f",
+				"tarball": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.16.0.tgz",
+				"fileCount": 6,
+				"unpackedSize": 63361,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfRar8CRA9TVsSAnZWagAAJXwP/iohWmDqoNzRwNwn5yPK\n2YlY1k5+YeRc+oZUXBqy3raWKYp76lvPJTG6S+PezXfjIhPjEmT5jSmLDQIb\nIWM7zQR6Cc0WIiytP4z7FiA3seteE9Yp50RoqgXwUppDJdHxalk5ZoRZqync\nMLzO66MjViihdQoM+un9yrKUMg16gp7yzsmqYIY+tmKxE546VA3Sdk7Q4OUH\ndjQLIOQe1Kn2QfUds+VkpOinxGvDdvXnBEk7cWnTKGh3Lj01sbBNIsG0Jqxg\n/jmB99TnvU/StIHQDr1XNsjl+byXZjBrZcP8nznYR81CBtNzDNtrdk1pLUGJ\nDpzama+Kv/VP4mmkm+dGU8hwqJwmL0ayhzIcOCo3AD3UDwvepS/Y8DnjQjho\nvNzih2IlefCiBfLyXejh5f9BPjQTciTErIcvjJS8zqAAPJasyVBa+uMNXP9f\n8NWySS6sRHdPb9Sg0m7j1Cj6JLVJz3RyLdA8KDy3V869mmz69synA2PH2BpS\nJ0vYLMVVLJKKUX0dKJ8cN3QRrbNUG3tBYw+SmQL60cAIf37PhOUTr5Cfawfj\nPF2v0jecu/xYZlzjl1mUg3fn4L0zq/aiVmrdN8hdBknzk1d++V9Du15ohosp\nH3nhjh6h1UCHIaTr3tq9dxD4+0qwMEKsxn0kWSh2S7Wj36+y1/JTG+yMn23e\nFpS9\r\n=aTtx\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"maintainers": [
+				{
+					"email": "jneen@jneen.net",
+					"name": "jneen"
+				},
+				{
+					"email": "brian@mockbrian.com",
+					"name": "wavebeem"
+				}
+			],
+			"_npmUser": {
+				"name": "wavebeem",
+				"email": "brian@mockbrian.com"
+			},
+			"directories": {},
+			"_npmOperationalInternal": {
+				"host": "s3://npm-registry-packages",
+				"tmp": "tmp/parsimmon_1.16.0_1598401276103_0.4221613419927541"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"time": {
+		"modified": "2020-08-26T00:21:18.663Z",
+		"created": "2012-11-18T22:10:42.116Z",
+		"0.0.1": "2012-11-18T22:10:50.127Z",
+		"0.0.3": "2013-03-24T05:26:23.754Z",
+		"0.0.5": "2013-04-10T17:01:30.998Z",
+		"0.0.6": "2013-09-24T21:46:42.003Z",
+		"0.1.0": "2014-01-09T20:25:38.195Z",
+		"0.2.0": "2014-01-29T23:55:12.060Z",
+		"0.2.1": "2014-03-10T05:35:31.245Z",
+		"0.3.0": "2014-03-12T22:09:41.708Z",
+		"0.3.1": "2014-03-12T22:19:46.491Z",
+		"0.3.2": "2014-04-18T18:30:25.623Z",
+		"0.4.0": "2014-04-18T22:33:57.083Z",
+		"0.5.0": "2014-06-15T17:53:56.079Z",
+		"0.5.1": "2014-06-30T23:49:30.496Z",
+		"0.6.0": "2015-02-24T16:30:56.414Z",
+		"0.7.0": "2015-03-14T18:40:15.352Z",
+		"0.7.1": "2016-06-04T19:43:19.935Z",
+		"0.7.2": "2016-06-27T03:28:45.405Z",
+		"0.8.0": "2016-06-29T04:18:48.074Z",
+		"0.8.1": "2016-07-01T05:07:16.885Z",
+		"0.9.0": "2016-07-08T05:02:54.429Z",
+		"0.9.1": "2016-07-09T01:29:41.164Z",
+		"0.9.2": "2016-08-07T16:34:02.387Z",
+		"1.0.0": "2016-11-03T03:42:46.439Z",
+		"1.1.0": "2016-12-22T06:44:56.697Z",
+		"1.2.0": "2016-12-23T01:45:32.328Z",
+		"1.3.0": "2017-05-28T22:16:27.642Z",
+		"1.4.0": "2017-06-06T05:51:01.349Z",
+		"1.5.0": "2017-06-27T03:30:14.417Z",
+		"1.6.0": "2017-06-27T06:17:52.601Z",
+		"1.6.1": "2017-07-02T01:58:56.344Z",
+		"1.6.2": "2017-07-09T01:29:14.340Z",
+		"1.6.3": "2018-01-02T04:11:01.404Z",
+		"1.6.4": "2018-01-02T05:54:32.941Z",
+		"1.7.0": "2018-03-10T22:46:38.435Z",
+		"1.7.1": "2018-03-22T14:56:28.594Z",
+		"1.7.2": "2018-04-06T01:44:36.033Z",
+		"1.7.3": "2018-04-22T22:39:33.644Z",
+		"1.8.0": "2018-06-05T03:09:03.866Z",
+		"1.9.0": "2018-06-16T03:31:27.191Z",
+		"1.10.0": "2018-06-17T18:54:37.487Z",
+		"1.11.0": "2018-06-23T22:14:21.894Z",
+		"1.11.1": "2018-06-26T01:29:27.047Z",
+		"1.12.0": "2018-07-13T03:04:17.577Z",
+		"1.12.1": "2019-07-08T01:06:43.772Z",
+		"1.13.0": "2019-07-26T05:23:36.024Z",
+		"1.14.0": "2020-07-09T02:59:34.164Z",
+		"1.15.0": "2020-07-27T16:22:57.584Z",
+		"1.16.0": "2020-08-26T00:21:16.309Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "1.16.0"
+	},
+	"_uplinks": {
+		"npmjs": {
+			"etag": "W/\"c4671acc1bae3b06cee50e22e8b7d046\"",
+			"fetched": 1599292199197
+		}
+	},
+	"_distfiles": {
+		"parsimmon-0.0.1.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.0.1.tgz",
+			"sha": "7f60c432d2785e1516aaaeaf1550320fce41075d",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.0.5.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.0.5.tgz",
+			"sha": "d51b14e600e6c22298460c8cee19365ebf53d4e3",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.0.6.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.0.6.tgz",
+			"sha": "551f3af12a041f54e15b7aa001ba87a0eec9bff1",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.1.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.1.0.tgz",
+			"sha": "b4a3d00ef34e588092a3f1695efb84620a6008a0",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.2.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.2.0.tgz",
+			"sha": "48e9a138522acc42a6c46ee4b1ba2243c78e4412",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.2.1.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.2.1.tgz",
+			"sha": "da694fd56c38129b057e040132c258131b533be5",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.3.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.3.0.tgz",
+			"sha": "6b59fcaca3604ff8edd816b9a48fcb0d3c851aa9",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.3.1.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.3.1.tgz",
+			"sha": "5f661c6cfb44705d044ac9a1fabc97a88917f768",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.3.2.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.3.2.tgz",
+			"sha": "cf013b350ad719768775b19abf8bf4aa3af6d68b",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.4.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.4.0.tgz",
+			"sha": "072b13a0245fa2b9f02c5a9ae56a470bbcf02552",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.5.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.5.0.tgz",
+			"sha": "07c96245e8d4b74de6de2d6af63f7500ff70e348",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.5.1.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.5.1.tgz",
+			"sha": "247c970d7d5e99a51115b16a106de96f0eb9303b",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.6.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.6.0.tgz",
+			"sha": "6d1615e8cd3913a2a5438720afb7f073aec3e776",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.7.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.7.0.tgz",
+			"sha": "652fc7cbade73c5edb42a266ec556c906d82c9fb",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.7.1.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.7.1.tgz",
+			"sha": "d160ea17600b709b55e6e0a2ba179ee689ec1d84",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.7.2.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.7.2.tgz",
+			"sha": "805fc6d1ed52d0c9b65cbf6b4da58a161e68e7e1",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.8.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.8.0.tgz",
+			"sha": "49ae9699ddcec4b55c488b14f7c1b693d0427452",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.8.1.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.8.1.tgz",
+			"sha": "55bd20413dff1594612d2974fb20bd4fd4d23d5d",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.9.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.9.0.tgz",
+			"sha": "77d005dff394608f7a5b1fe300821994f8c66aef",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.9.1.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.9.1.tgz",
+			"sha": "80f95e6b78f16e8426d9e5792825db56a92fc577",
+			"registry": "npmjs"
+		},
+		"parsimmon-0.9.2.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-0.9.2.tgz",
+			"sha": "3f01a25839a944a8a4d92aaad00d54b5707e8049",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.0.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.0.0.tgz",
+			"sha": "f653bded19be311e8f6f72fad57cf5ab392951c2",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.1.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.1.0.tgz",
+			"sha": "94d0ca8af53260a2d62d6bdbdac925e5328ce919",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.2.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.2.0.tgz",
+			"sha": "3ed4ae6c8913066969f3faeafe39961fdcadf399",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.3.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.3.0.tgz",
+			"sha": "e9f635b56af6d1b79a877246008f50ec9806b20d",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.4.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.4.0.tgz",
+			"sha": "682f3e45069ef5946aacac940e9b9d3de765d9a4",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.5.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.5.0.tgz",
+			"sha": "e6c8dcdbac0f49a7a06d3871063144586cebcaf8",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.6.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.6.0.tgz",
+			"sha": "50bc6386bc909990272ca9ed84e8d0c06cacab4c",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.6.1.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.6.1.tgz",
+			"sha": "3e52652170a5a59728ddd349dbeaadf5117fdddf",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.6.2.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.6.2.tgz",
+			"sha": "28fbe6b8caa38ab89f52b77f8c7743563c7d9aff",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.6.4.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.6.4.tgz",
+			"sha": "7ff16d52d58b9769d019b401848ee2c9bd94dd86",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.7.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.7.0.tgz",
+			"sha": "017d6132fe12b46dc0e378a52897c1fafa9cffcb",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.7.1.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.7.1.tgz",
+			"sha": "0e1b8f6005b4ab856f1b189d13a538ee3f00f42d",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.7.2.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.7.2.tgz",
+			"sha": "e0c8aa132bfec54cc0d5d312d171ddd8f446c539",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.7.3.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.7.3.tgz",
+			"sha": "3e8a9ae1f651077c4f6dcf9b3ade1f9e60d085df",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.8.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.8.0.tgz",
+			"sha": "9aa1072b6ed9116ae746cdbd3a8db0bb680d57e8",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.9.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.9.0.tgz",
+			"sha": "7d2110c2e28a468d3aa27bd0735ff9ad05442e63",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.10.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.10.0.tgz",
+			"sha": "303a0fc2ce2fa4326481d702093b471dd089b6a8",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.11.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.11.0.tgz",
+			"sha": "ae825f1ebdcb6bdf4d2ccead9beab5832f8af473",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.11.1.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.11.1.tgz",
+			"sha": "86493d7130636ffdcf748913b84f23916ec16f31",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.12.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.12.0.tgz",
+			"sha": "886a442fb30b5fc3c8e7c4994050f5cdcfe0ea90",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.12.1.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.12.1.tgz",
+			"sha": "4c08eb645934e2955517f1cea7c3613be9a1f091",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.13.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.13.0.tgz",
+			"sha": "6e4ef3dbd45ed6ea6808be600ac4b9c8a44228cf",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.14.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.14.0.tgz",
+			"sha": "50da297f3ba0894f561108133529d305d564f75c",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.15.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.15.0.tgz",
+			"sha": "524999dc705c24bb08b6f729b9ebaa0e941f3ae1",
+			"registry": "npmjs"
+		},
+		"parsimmon-1.16.0.tgz": {
+			"url": "https://registry.npmjs.org/parsimmon/-/parsimmon-1.16.0.tgz",
+			"sha": "2834e3db645b6a855ab2ea14fbaad10d82867e0f",
+			"registry": "npmjs"
+		}
+	},
+	"_attachments": {
+		"parsimmon-1.6.2.tgz": {
+			"shasum": "28fbe6b8caa38ab89f52b77f8c7743563c7d9aff"
+		}
+	},
+	"_rev": "2-c393150912a9c14f",
+	"_id": "parsimmon",
+	"readme": "<a href=\"https://badge.fury.io/js/parsimmon\"><img src=\"https://badge.fury.io/js/parsimmon.svg\" alt=\"\"></a>\n<a href=\"https://opensource.org/licenses/MIT\"><img alt=\"\" src=\"https://img.shields.io/badge/License-MIT-yellow.svg\"></a>\n<a href=\"https://coveralls.io/github/jneen/parsimmon?branch=master\"><img alt=\"\" src=\"https://coveralls.io/repos/github/jneen/parsimmon/badge.svg?branch=master\"/></a>\n<a href=\"https://travis-ci.org/jneen/parsimmon\"><img alt=\"\" src=\"https://api.travis-ci.org/jneen/parsimmon.svg\"></a>\n\n<a href=\"https://github.com/jneen/parsimmon\"><img align=\"right\" src=\"https://i.imgur.com/wyKOf.png\" alt=\"Parsimmon\"></a>\n\n# Parsimmon\n\n**Authors:** [@jneen][] and [@laughinghan][]\n\n**Maintainer:** [@wavebeem][]\n\nParsimmon is a small library for writing big parsers made up of lots of little parsers. The API is inspired by [parsec][] and [Promises/A+][promises-aplus].\n\nParsimmon supports IE7 and newer browsers, along with [Node.js][]. It can be used as a standard Node module through [npm][] (named `parsimmon`), or directly in the browser through a script tag, where it exports a global variable called `Parsimmon`. To download the latest browser build, use the [unpkg version][]. For more information on how to use unpkg, see the [unpkg homepage][].\n\n## Code of Conduct\n\nEveryone is expected to abide by the [Contributor Covenant](CODE_OF_CONDUCT.md). Please send reports to [brian@mockbrian.com](mailto:brian@mockbrian.com).\n\n<!--\n\nParsimmon is officially tested against Node.js 4.x and higher. It should also work in [browsers with ES5 support][es5] (IE9* and up).\n\nIf you need IE8 support, you may be able to get Parsimmon to work by using [es5-shim][], but this is **not officially supported**. Alternately, you can use an older version of Parsimmon which supports IE8.\n\n\\* _IE9 does not support \"strict mode\", but Parsimmon does not require it._\n\n## Module usage\n\n```\nnpm install --save parsimmon\n```\n\n## Browser usage\n\n To download the latest browser build, use the [unpkg version][]. Parsimmon is exposed as a global variable called `Parsimmon`. For more information on how to use unpkg, see the [unpkg homepage][].\n\n-->\n\n## API Documentation\n\n- [Full API documentation in `API.md`](API.md)\n- [Guide with additional questions](GUIDE.md)\n- [Tutorial by Max Tagher](https://medium.com/mercury-bank/a-magic-date-input-using-parser-combinators-in-typescript-3c779741bf4c)\n\n## Examples\n\nSee the [examples][] directory for annotated examples of parsing JSON, Lisp, a Python-ish language, and math.\n\n## Common Functions\n\n- [`.createLanguage(parsers)`](API.md#parsimmoncreatelanguageparsers)\n- [`.string(string)`](API.md#parsimmonstringstring)\n- [`.regexp(regexp)`](API.md#parsimmonregexpregexp)\n- [`.seq(p1, p2, ...pn)`](API.md#parsimmonseqp1-p2-pn)\n- [`.sepBy(content, separator)`](API.md#parsimmonsepbycontent)\n- [`.alt(p1, p2, ...pn)`](API.md#parsimmonaltp1-p2-pn)\n- [`.whitespace`](API.md#parsimmonwhitespace)\n- [`.index`](API.md#parsimmonindex)\n- [`parser.map(fn)`](API.md#parsermapfn)\n- [`parser.node(name)`](API.md#parsernodename)\n- [`parser.skip(otherParser)`](API.md#parserskipotherparser)\n\n## Questions\n\nFeel free to ask a question by filing a GitHub Issue. I'm happy to help point you in the right direction with the library, and hopefully improve the documentation so less people get confused in the future.\n\n## Contributing\n\nContributions are _not_ just pull requests.\n\nIssues clearly describing bugs or confusing parts of Parsimmon are welcome! Also, documentation enhancements and examples are very desirable.\n\nFeeling overwhelmed about contributing? Open an issue about what you want to contribute and I'm happy to help you through to completion!\n\n## Performance\n\nThanks to [@bd82][] we have a good [benchmark comparing Parsimmon CPU performance to several other parser libraries][perf] with a simple JSON parser example.\n\n<a href=\"https://github.com/fantasyland/fantasy-land\"><img align=\"right\" alt=\"Fantasy Land\" src=\"https://github.com/fantasyland/fantasy-land/raw/master/logo.png\"></a>\n\n## Fantasyland\n\nParsimmon is also compatible with [fantasyland][]. It implements Semigroup, Apply, Applicative, Functor, Chain, and Monad.\n\n[@bd82]: https://github.com/bd82\n[@laughinghan]: https://github.com/laughinghan\n[@jneen]: https://github.com/jneen\n[@wavebeem]: https://github.com/wavebeem\n[examples]: https://github.com/jneen/parsimmon/tree/master/examples\n[unpkg homepage]: https://unpkg.com/#/\n[unpkg version]: https://unpkg.com/parsimmon\n[npm]: https://www.npmjs.com/\n[node.js]: https://nodejs.org/en/\n[promises-aplus]: https://promisesaplus.com/\n[parsec]: https://hackage.haskell.org/package/parsec\n[fantasyland]: https://github.com/fantasyland/fantasy-land\n[perf]: https://sap.github.io/chevrotain/performance/\n[es5]: https://kangax.github.io/compat-table/es5/\n[es5-shim]: https://github.com/es-shims/es5-shim"
+}
